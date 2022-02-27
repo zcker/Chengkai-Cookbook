@@ -1,0 +1,132 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1575291791510-96a7c0f50692?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxzZG58ZW58MHx8fHwxNjQ1OTY5NTE0&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
+# 🤩 SDN前世今生
+
+### SDN前世今生
+
+![](../.gitbook/assets/0)
+
+### 一、SDN是什么
+
+#### 从传统网络到SDN
+
+![](<../.gitbook/assets/1 (1)>)
+
+传统网络是集权制的，没有释放social power
+
+![](../.gitbook/assets/2)
+
+SDN将网络架构进行分层，进行解耦与开拓市场
+
+#### SDN概念和定义
+
+![](../.gitbook/assets/3)
+
+![](../.gitbook/assets/4)
+
+1. 数据与控制解耦合
+2. 统一并专注于用户的目标
+3. 逻辑上集中控制
+
+![](../.gitbook/assets/5)
+
+#### 三大特点
+
+![](../.gitbook/assets/6)
+
+关键是开放可编程
+
+#### 发展过程
+
+![](<../.gitbook/assets/7 (1)>)
+
+### 二、SDN体系结构
+
+#### 数据平面
+
+![](<../.gitbook/assets/8 (1)>)
+
+通过下发流表进行控制
+
+#### 控制平面
+
+![](<../.gitbook/assets/9 (1)>)
+
+### 三、SDN发展历史
+
+#### 控制平面
+
+![](../.gitbook/assets/10)
+
+![](<../.gitbook/assets/11 (1)>)
+
+![](../.gitbook/assets/12)
+
+![](<../.gitbook/assets/13 (1)>)
+
+### 四、SDN典型应用
+
+#### 多租户网络需要
+
+![](../.gitbook/assets/14)
+
+#### SDN数据中心应用
+
+![](<../.gitbook/assets/15 (1)>)
+
+#### 成熟方案
+
+![](../.gitbook/assets/16)
+
+**VMware NSX 方案**
+
+![](../.gitbook/assets/17)
+
+**VMware与Cisco方法比较**
+
+![](<../.gitbook/assets/18 (1)>)
+
+#### SDWAN
+
+![](../.gitbook/assets/19)
+
+可以学习厂商的方案案例
+
+#### Google B4
+
+![](<../.gitbook/assets/20 (1)>)
+
+#### 方案比较
+
+![](<../.gitbook/assets/image (9).png>)
+
+
+
+#### 应用场景
+
+![](../.gitbook/assets/image.png)
+
+### 五、SDN对于行业的影响
+
+![](<../.gitbook/assets/image (2).png>)
+
+#### 新产业格局
+
+![](<../.gitbook/assets/image (3).png>)
+
+#### 论文推荐
+
+
+
+![](<../.gitbook/assets/image (5).png>)
+
+### 六、我们如何行动？
+
+![](<../.gitbook/assets/image (4).png>)
+
+![](<../.gitbook/assets/image (7).png>)
+
