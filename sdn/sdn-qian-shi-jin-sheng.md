@@ -8,23 +8,23 @@ coverY: 0
 
 ### SDN前世今生
 
-![](<../.gitbook/assets/0 (1)>)
+![](<../.gitbook/assets/0 (1) (1)>)
 
 ### 一、SDN是什么
 
 #### 从传统网络到SDN
 
-![](<../.gitbook/assets/1 (1) (1)>)
+![](<../.gitbook/assets/1 (1) (1) (1)>)
 
 传统网络是集权制的，没有释放social power
 
-![](../.gitbook/assets/2)
+![](<../.gitbook/assets/2 (1)>)
 
 SDN将网络架构进行分层，进行解耦与开拓市场
 
 #### SDN概念和定义
 
-![](../.gitbook/assets/3)
+![](<../.gitbook/assets/3 (1)>)
 
 ![](../.gitbook/assets/4)
 
@@ -32,7 +32,7 @@ SDN将网络架构进行分层，进行解耦与开拓市场
 2. 统一并专注于用户的目标
 3. 逻辑上集中控制
 
-![](../.gitbook/assets/5)
+![](<../.gitbook/assets/5 (1)>)
 
 #### 三大特点
 
@@ -102,7 +102,7 @@ SDN将网络架构进行分层，进行解耦与开拓市场
 
 #### 方案比较
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 
 
@@ -128,5 +128,5 @@ SDN将网络架构进行分层，进行解耦与开拓市场
 
 ![](<../.gitbook/assets/image (4).png>)
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
