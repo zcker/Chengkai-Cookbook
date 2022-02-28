@@ -12,23 +12,26 @@
   * [🤩 SDN前世今生](network/sdn/sdn-qian-shi-jin-sheng.md)
   * [😁 Mininet入门与实战](network/sdn/mininet-ru-men-yu-shi-zhan.md)
 
-## 📚 书籍 <a href="#book" id="book"></a>
+## 🧑💻 🧑💻 微信小程序 <a href="#wechat" id="wechat"></a>
 
-* [😏 《上瘾》书评](book/shang-yin-shu-ping.md)
+* [📞 微信小程序：填坑，理解，记录](wechat/wei-xin-xiao-cheng-xu-tian-keng-li-jie-ji-lu.md)
 
-## 📽 电影 <a href="#movie" id="movie"></a>
+## 🐍 Python
 
-* [⛰ 影评：攀登者](movie/ying-ping-pan-deng-zhe.md)
-* [♟ 《后翼弃兵》影评](movie/hou-yi-qi-bing-ying-ping.md)
+* [Page 1](python/page-1.md)
+
+## ☕ Java
+
+* [⭕ 优先级数轮转法](java/you-xian-ji-shu-lun-zhuan-fa.md)
 
 ## 🛠 工具说明 <a href="#tool" id="tool"></a>
 
 * [📈 typora画图](tool/typora-hua-tu.md)
 
-## 🧑💻 🧑💻 微信小程序 <a href="#wechat" id="wechat"></a>
+## 🎮 书影音 <a href="#book-movie-music" id="book-movie-music"></a>
 
-* [📞 微信小程序：填坑，理解，记录](wechat/wei-xin-xiao-cheng-xu-tian-keng-li-jie-ji-lu.md)
-
-## ☕ Java
-
-* [⭕ 优先级数轮转法](java/you-xian-ji-shu-lun-zhuan-fa.md)
+* [📚 书](book-movie-music/shu/README.md)
+  * [😏 《上瘾》书评](book-movie-music/shu/shang-yin-shu-ping.md)
+* [🎬 影](book-movie-music/ying/README.md)
+  * [⛰ 影评：攀登者](book-movie-music/ying/ying-ping-pan-deng-zhe.md)
+  * [♟ 《后翼弃兵》影评](book-movie-music/ying/hou-yi-qi-bing-ying-ping.md)
