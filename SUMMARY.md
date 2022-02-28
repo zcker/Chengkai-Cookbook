@@ -10,4 +10,7 @@
 ## 🐍 Python
 
 * [📇 索引](python/suo-yin.md)
-* [Page 1](python/page-1.md)
+
+## 📚 书籍 <a href="#book" id="book"></a>
+
+* [😏 《上瘾》书评](book/shang-yin-shu-ping.md)

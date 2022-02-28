@@ -8,13 +8,13 @@ coverY: 0
 
 ### SDN前世今生
 
-![](../.gitbook/assets/0)
+![](<../.gitbook/assets/0 (1)>)
 
 ### 一、SDN是什么
 
 #### 从传统网络到SDN
 
-![](<../.gitbook/assets/1 (1)>)
+![](<../.gitbook/assets/1 (1) (1)>)
 
 传统网络是集权制的，没有释放social power
 
