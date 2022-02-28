@@ -8,7 +8,7 @@ coverY: 0
 
 ### SDN前世今生
 
-![](<../../.gitbook/assets/0 (1) (1) (1)>)
+![](<../../.gitbook/assets/0 (1) (1) (1) (1)>)
 
 ### 一、SDN是什么
 
@@ -42,7 +42,7 @@ SDN将网络架构进行分层，进行解耦与开拓市场
 
 #### 发展过程
 
-![](../../.gitbook/assets/7)
+![](<../../.gitbook/assets/7 (2)>)
 
 ### 二、SDN体系结构
 
@@ -54,19 +54,19 @@ SDN将网络架构进行分层，进行解耦与开拓市场
 
 #### 控制平面
 
-![](../../.gitbook/assets/9)
+![](<../../.gitbook/assets/9 (3)>)
 
 ### 三、SDN发展历史
 
 #### 控制平面
 
-![](<../../.gitbook/assets/10 (1)>)
+![](<../../.gitbook/assets/10 (1) (1)>)
 
-![](../../.gitbook/assets/11)
+![](<../../.gitbook/assets/11 (2)>)
 
 ![](<../../.gitbook/assets/12 (1)>)
 
-![](../../.gitbook/assets/13)
+![](<../../.gitbook/assets/13 (2)>)
 
 ### 四、SDN典型应用
 
@@ -76,7 +76,7 @@ SDN将网络架构进行分层，进行解耦与开拓市场
 
 #### SDN数据中心应用
 
-![](../../.gitbook/assets/15)
+![](<../../.gitbook/assets/15 (3)>)
 
 #### 成熟方案
 
@@ -88,7 +88,7 @@ SDN将网络架构进行分层，进行解耦与开拓市场
 
 **VMware与Cisco方法比较**
 
-![](../../.gitbook/assets/18)
+![](<../../.gitbook/assets/18 (2)>)
 
 #### SDWAN
 
@@ -98,17 +98,17 @@ SDN将网络架构进行分层，进行解耦与开拓市场
 
 #### Google B4
 
-![](../../.gitbook/assets/20)
+![](<../../.gitbook/assets/20 (2)>)
 
 #### 方案比较
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1).png>)
 
 
 
 #### 应用场景
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (2).png>)
 
 ### 五、SDN对于行业的影响
 
@@ -126,7 +126,7 @@ SDN将网络架构进行分层，进行解耦与开拓市场
 
 ### 六、我们如何行动？
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 ![](<../../.gitbook/assets/image (7) (1).png>)
 
