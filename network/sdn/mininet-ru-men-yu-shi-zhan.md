@@ -154,3 +154,7 @@ py help('设备名') # 详细命令
 ![](<../../.gitbook/assets/17 (2)>)
 
 一秒记录一次数据
+
+## 参考资料
+
+* 未来网络学院  [https://www.bilibili.com/video/BV1ft4y1a7ip](https://www.bilibili.com/video/BV1ft4y1a7ip)

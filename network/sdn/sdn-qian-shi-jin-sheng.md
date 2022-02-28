@@ -130,3 +130,6 @@ SDN将网络架构进行分层，进行解耦与开拓市场
 
 ![](<../../.gitbook/assets/image (7) (1).png>)
 
+### 参考资料
+
+* 未来网络学院  [https://www.bilibili.com/video/BV1ft4y1a7ip](https://www.bilibili.com/video/BV1ft4y1a7ip)
