@@ -35,3 +35,7 @@
 * [🎬 影](book-movie-music/ying/README.md)
   * [⛰ 影评：攀登者](book-movie-music/ying/ying-ping-pan-deng-zhe.md)
   * [♟ 《后翼弃兵》影评](book-movie-music/ying/hou-yi-qi-bing-ying-ping.md)
+
+## ⛓ 区块链 <a href="#blockchain" id="blockchain"></a>
+
+* [😛 数字货币挖矿基础知识](blockchain/shu-zi-huo-bi-wa-kuang-ji-chu-zhi-shi.md)

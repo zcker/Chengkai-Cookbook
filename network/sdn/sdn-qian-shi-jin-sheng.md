@@ -14,7 +14,7 @@ coverY: 0
 
 #### 从传统网络到SDN
 
-![](<../../.gitbook/assets/1 (1) (1)>)
+![](<../../.gitbook/assets/1 (1) (1) (2)>)
 
 传统网络是集权制的，没有释放social power
 

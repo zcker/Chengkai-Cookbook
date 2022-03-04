@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/0 (2)
+cover: ../../.gitbook/assets/0 (2) (1)
 coverY: 0
 ---
 
@@ -7,7 +7,7 @@ coverY: 0
 
 ### 互联网时代的卷烟
 
-![](<../../.gitbook/assets/0 (2)>)
+![](<../../.gitbook/assets/0 (2) (1)>)
 
 ### 感悟
 
@@ -69,6 +69,6 @@ coverY: 0
 * 娱乐用户：缺乏持久力
 * 经销商：难搞
 
-![](../../.gitbook/assets/1)
+![](<../../.gitbook/assets/1 (1)>)
 
 &#x20; 9\. 习惯测试：确定用户，分析用户行为，改进产品

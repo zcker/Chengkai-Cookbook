@@ -14,13 +14,13 @@ coverY: 0
 
 ![](<../../.gitbook/assets/1 (4)>)
 
-![](<../../.gitbook/assets/2 (3)>)
+![](<../../.gitbook/assets/2 (3) (1)>)
 
 ### 二、Mininet安装部署
 
-![](<../../.gitbook/assets/3 (3)>)
+![](<../../.gitbook/assets/3 (3) (1)>)
 
-![](<../../.gitbook/assets/4 (2)>)
+![](<../../.gitbook/assets/4 (2) (1)>)
 
 ![](<../../.gitbook/assets/5 (2)>)
 
@@ -121,7 +121,7 @@ py help('设备名') # 详细命令
 
 ![](<../../.gitbook/assets/3 (2)>)
 
-![](../../.gitbook/assets/4)
+![](<../../.gitbook/assets/4 (2)>)
 
 ![](<../../.gitbook/assets/5 (1)>)
 
