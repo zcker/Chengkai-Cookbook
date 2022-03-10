@@ -1,6 +1,12 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1644851722825-448a109e259f?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDY4ODY3NjI&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # 🥳 mininet-wifi examples简述
 
-### 4address
+## 4address
 
 IEEE 802.11 (WLAN)帧的报头有四个地址字段。为了在无线分配系统(WDS)链路上透明地传输以太网数据包，IEEE 802.3(以太网)帧被封装在IEEE 802.11 (WLAN)帧中。在这种状况下，使用全部四个地址字段 ,包括：
 
@@ -282,4 +288,129 @@ BSS 02:00:00:00:04:00(on sta1-wlan0)
 		 * Multiple BSSID
 		 * SSID List
 		 * Operating Mode Notification
+```
+
+## adhoc
+
+adhoc显示了如何使用adhoc模式设置实验，在这种模式下，工做站无需经过访问点而彼此链接。
+
+```python
+#!/usr/bin/python
+
+"""
+This example shows on how to enable the adhoc mode
+Alternatively, you can use the manet routing protocol of your choice
+"""
+
+import sys
+
+from mininet.log import setLogLevel, info
+from mn_wifi.link import wmediumd, adhoc
+from mn_wifi.cli import CLI
+from mn_wifi.net import Mininet_wifi
+from mn_wifi.wmediumdConnector import interference
+
+
+def topology(args):
+    "Create a network."
+    net = Mininet_wifi(link=wmediumd, wmediumd_mode=interference)
+
+    info("*** Creating nodes\n")
+    kwargs = dict()
+    if '-a' in args:
+        kwargs['range'] = 100
+
+    sta1 = net.addStation('sta1', ip6='fe80::1',
+                          position='10,10,0', **kwargs)
+    sta2 = net.addStation('sta2', ip6='fe80::2',
+                          position='50,10,0', **kwargs)
+    sta3 = net.addStation('sta3', ip6='fe80::3',
+                          position='90,10,0', **kwargs)
+
+    net.setPropagationModel(model="logDistance", exp=4)
+
+    info("*** Configuring wifi nodes\n")
+    net.configureWifiNodes()
+
+    info("*** Creating links\n")
+    # MANET routing protocols supported by proto:
+    # babel, batman_adv, batmand and olsr
+    # WARNING: we may need to stop Network Manager if you want
+    # to work with babel
+    protocols = ['babel', 'batman_adv', 'batmand', 'olsrd', 'olsrd2']
+    kwargs = dict()
+    for proto in args:
+        if proto in protocols:
+            kwargs['proto'] = proto
+
+    net.addLink(sta1, cls=adhoc, intf='sta1-wlan0',
+                ssid='adhocNet', mode='g', channel=5,
+                ht_cap='HT40+', **kwargs)
+    net.addLink(sta2, cls=adhoc, intf='sta2-wlan0',
+                ssid='adhocNet', mode='g', channel=5,
+                **kwargs)
+    net.addLink(sta3, cls=adhoc, intf='sta3-wlan0',
+                ssid='adhocNet', mode='g', channel=5,
+                ht_cap='HT40+', **kwargs)
+
+    info("*** Starting network\n")
+    net.build()
+
+    info("\n*** Addressing...\n")
+    if 'proto' not in kwargs:
+        sta1.setIP6('2001::1/64', intf="sta1-wlan0")
+        sta2.setIP6('2001::2/64', intf="sta2-wlan0")
+        sta3.setIP6('2001::3/64', intf="sta3-wlan0")
+
+    info("*** Running CLI\n")
+    CLI(net)
+
+    info("*** Stopping network\n")
+    net.stop()
+
+
+if __name__ == '__main__':
+    setLogLevel('info')
+    topology(sys.argv)
+
+```
+
+{% hint style="info" %}
+![](../../.gitbook/assets/image.png)
+
+如何传入参数：
+
+![](<../../.gitbook/assets/image (14).png>)
+{% endhint %}
+
+```shell
+mininet-wifi> links
+sta1-wlan0<->wifiAdhoc (OK wifiAdhoc) 
+sta2-wlan0<->wifiAdhoc (OK wifiAdhoc) 
+sta3-wlan0<->wifiAdhoc (OK wifiAdhoc) 
+sta1-wlan0<->wifi (use iw/iwconfig to check connectivity) 
+sta2-wlan0<->wifi (use iw/iwconfig to check connectivity) 
+sta3-wlan0<->wifi (use iw/iwconfig to check connectivity)
+
+mininet-wifi> sta1 iw dev sta1-wlan0 scan
+ BSS 02:ca:ff:ee:ba:01(on sta1-wlan0) -- joined
+	last seen: 8905.269s [boottime]
+	TSF: 1646891440720863 usec (19061d, 05:50:40)
+	freq: 2432
+	beacon interval: 100 TUs
+	capability: IBSS (0x0002)
+	signal: -79.00 dBm
+	last seen: 0 ms ago
+	Information elements from Probe Response frame:
+	SSID: adhocNet
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 
+	DS Parameter set: channel 5
+	IBSS ATIM window: 0 TUs
+	Extended supported rates: 24.0 36.0 48.0 54.0 
+	WMM: information: 01 00 
+	
+mininet-wifi> sta1 iw dev sta1-wlan0 link
+Joined IBSS 02:ca:ff:ee:ba:01 (on sta1-wlan0)
+	SSID: adhocNet
+	freq: 2432
 ```

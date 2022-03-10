@@ -97,11 +97,11 @@ py help('设备名') # 详细命令
 
 ![](<../../.gitbook/assets/image (4).png>)
 
-![](../../.gitbook/assets/image.png)
-
 ![](<../../.gitbook/assets/image (1).png>)
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
+
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 ### 注意事项
 
