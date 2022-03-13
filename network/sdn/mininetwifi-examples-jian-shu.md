@@ -380,7 +380,7 @@ if __name__ == '__main__':
 
 如何传入参数：
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 {% endhint %}
 
 ```shell
