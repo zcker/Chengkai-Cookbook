@@ -33,7 +33,7 @@ coverY: 0
 
 **例子（GPA）：**
 
-![](<../.gitbook/assets/image (15) (1).png>)
+![](<../.gitbook/assets/image (15) (1) (1).png>)
 
 得分当然是越高越好，这样的属性值类型也称为**效益型**；但也有些其他的属性值可能是数值越低越好，这类属性类型称为**成本型**，比如某公司的某件产品的生产价格；还有一些其他的，都在下面列出：
 
@@ -41,7 +41,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/image (12).png>)
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 通过将不同属性类型的属性值经过上述公式规范化为统一量纲的数值就，就可以使用我们前面说的加权算术平均算子了。
 
@@ -92,9 +92,9 @@ coverY: 0
 
 ### **例2**
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 ```python
 #!/usr/bin/env python
