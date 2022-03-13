@@ -126,7 +126,7 @@ SDN将网络架构进行分层，进行解耦与开拓市场
 
 ### 六、我们如何行动？
 
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (7) (1) (1) (1).png>)
 

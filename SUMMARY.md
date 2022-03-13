@@ -37,7 +37,7 @@
 
 ## ⛓ 区块链 <a href="#blockchain" id="blockchain"></a>
 
-* [😥 web3.0](blockchain/web3.0.md)
+* [🚜 web3.0](blockchain/web3.0.md)
 * [😛 数字货币挖矿基础知识](blockchain/shu-zi-huo-bi-wa-kuang-ji-chu-zhi-shi.md)
 
 ## 🎰 算法 & 数学模型 <a href="#algorithm" id="algorithm"></a>
