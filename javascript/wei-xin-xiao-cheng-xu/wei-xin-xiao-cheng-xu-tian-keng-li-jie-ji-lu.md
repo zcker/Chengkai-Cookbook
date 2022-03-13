@@ -18,7 +18,7 @@ coverY: 0
 不好意思，你还必须配置服务器的tomcat或者其他的动态服务器驱动，而且更重要的是需要配置**域名，SSL（HTTPS），实名备案**，如果你问为什么我测试的时候就可以，那么麻烦把上面的勾去掉，你就会发现报错了。（早配置，早舒心）👐\
 
 
-![](<../.gitbook/assets/0 (1) (1) (1)>)
+![](<../../.gitbook/assets/0 (1) (1) (1)>)
 
 ### 页面路由坑
 
@@ -72,13 +72,13 @@ rpx:微信对于rem的一种应用的规定，或者说一种设计的方案，�
 \
 
 
-![](../.gitbook/assets/2)
+![](../../.gitbook/assets/2)
 
-![](<../.gitbook/assets/1 (1) (1)>)
+![](<../../.gitbook/assets/1 (1) (1)>)
 
 ### 理解微信小程序渲染过程
 
-![](<../.gitbook/assets/3 (1)>)
+![](<../../.gitbook/assets/3 (1)>)
 
 WXML 模板和 WXSS 样式工作在渲染层，JS 脚本工作在逻辑层。\
 小程序的渲染层和逻辑层分别由2个线程管理：渲染层的界面使用了WebView 进行渲染；逻辑层采用JsCore线程运行JS脚本。一个小程序存在多个界面，所以渲染层存在多个WebView线程，这两个线程的通信会经由微信客户端（下文中也会采用Native来代指微信客户端）做中转，逻辑层发送网络请求也经由Native转发。
@@ -103,12 +103,12 @@ WXSS(WeiXin Style Sheet) 用于描述页面的样式。
 
 ### 理解小程序的生命周期
 
-![](<../.gitbook/assets/4 (1)>)
+![](<../../.gitbook/assets/4 (1)>)
 
 ### 理解微信小程序的WXML与WXSS如何沟通
 
 首先，我们需要明白你的this.setData设置到哪里去了\
-![fig:](../.gitbook/assets/5)\
+![fig:](../../.gitbook/assets/5)\
 如图，要理解我们把data设置到哪里去了，这里的data是在页面的data中的数据，此时在JS中调用时使用this.data.data,在WXML只需要直接使用data就可以了，因为WXML是直接读到Page的data的
 
 ### 记录wx\_request格式

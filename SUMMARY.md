@@ -13,13 +13,10 @@
   * [😁 Mininet入门与实战](network/sdn/mininet-ru-men-yu-shi-zhan.md)
   * [🥳 mininet-wifi examples简述](network/sdn/mininetwifi-examples-jian-shu.md)
 
-## 🧑💻 🧑💻 微信小程序 <a href="#wechat" id="wechat"></a>
+## 🔺 javascript
 
-* [📞 微信小程序：填坑，理解，记录](wechat/wei-xin-xiao-cheng-xu-tian-keng-li-jie-ji-lu.md)
-
-## 🐍 Python
-
-* [Page 1](python/page-1.md)
+* [🖨 微信小程序](javascript/wei-xin-xiao-cheng-xu/README.md)
+  * [📞 微信小程序：填坑，理解，记录](javascript/wei-xin-xiao-cheng-xu/wei-xin-xiao-cheng-xu-tian-keng-li-jie-ji-lu.md)
 
 ## ☕ Java
 
@@ -41,3 +38,9 @@
 ## ⛓ 区块链 <a href="#blockchain" id="blockchain"></a>
 
 * [😛 数字货币挖矿基础知识](blockchain/shu-zi-huo-bi-wa-kuang-ji-chu-zhi-shi.md)
+
+## 🎰 算法 & 数学模型 <a href="#algorithm" id="algorithm"></a>
+
+* [📀 多属性决策模型](algorithm/duo-shu-xing-jue-ce-mo-xing.md)
+
+## Group 1
