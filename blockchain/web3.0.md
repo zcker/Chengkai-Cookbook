@@ -341,28 +341,143 @@ Appchain 虽然有众多优点，但是其缺点也是明显的。本节详细�
 
 运维难度。验证人节点，需要运维自己独立的服务器。运维体现在几方面：
 
-● 服务器的稳定运行。监控其 CPU 负载、内存负载、网络负载、存储空间等等，适时增加配置，防止由于硬件原因导致节点运行失败
-
-● 防攻击。做好节点防护，防止外部黑客或不明来源攻击，对链的安全性造成冲击
-
-● 链上代码版本的及时升级跟进。有些版本可以通过 wasm 之类的技术自动升级，有些版本却需要升级整个节点内容，需要手动或 DevOps 自动跟进
+* &#x20;服务器的稳定运行。监控其 CPU 负载、内存负载、网络负载、存储空间等等，适时增加配置，防止由于硬件原因导致节点运行失败
+* &#x20;防攻击。做好节点防护，防止外部黑客或不明来源攻击，对链的安全性造成冲击
+* &#x20;链上代码版本的及时升级跟进。有些版本可以通过 wasm 之类的技术自动升级，有些版本却需要升级整个节点内容，需要手动或 DevOps 自动跟进
 
 相比之下，合约平台上的合约开发者，不需要关心这么细节的运维内容。
 
-跨链交互难度。如果所有的链都是独立的、互不交互的链，那么最终只会形成一个个的价值孤岛。链与链之间打通，增加价值的流动性，才能创造出更多价值。因此跨链交互是 Appchain 必须从一开始就考虑的问题。对以太坊来说，上面的合约不需要考虑这个问题：对内来说，以太坊资产共享同一个状态空间，不同合约资产之间是可以组合交互的。对外来说，只要以太坊与其它链做好跨链桥，就能方便地利用这些桥转移资产。但 Appchain 得自己面对这个问题，要么是自己实现与其它链的跨链桥，要么使用类似 Cosmos IBC 这样的跨链通信接口，要么加入类似 Polkadot, Octopus 这样的 Appchain 网络集群。
+跨链交互难度。如果所有的链都是独立的、互不交互的链，那么最终只会形成一个个的价值孤岛。链与链之间打通，增加价值的流动性，才能创造出更多价值。因此**跨链**交互是 Appchain 必须从一开始就考虑的问题。对以太坊来说，上面的合约不需要考虑这个问题：对内来说，以太坊资产共享同一个状态空间，不同合约资产之间是可以组合交互的。对外来说，只要以太坊与其它链做好跨链桥，就能方便地利用这些桥转移资产。但 Appchain 得自己面对这个问题，要么是自己实现与其它链的跨链桥，要么使用类似 Cosmos IBC 这样的跨链通信接口，要么加入类似 Polkadot, Octopus 这样的 Appchain 网络集群。
 
 其中，自己实现与其它链的跨链桥基本不可行，因为在多链架构下，存在如此多的跨链桥，一个一个去实现得不偿失。
 
 除了上述四个难度，其它还有比如治理难度：Appchain 通过 PoS 机制进行链上治理，合约通过 DAO 类设施进行链上治理，难度相当。PoS 本身如何运用好，是一个非技术性的问题，这是相当有难度的。Token 经济学设计难度：在 Token 经济学设计上，Appchain 能做的事情更多，更灵活，但是实现也更复杂，难度比合约大（或者说这是客观复杂性）。
 
-综合以上这些因素，我们可以断定：创始小团队基本无力负担 Appchain 独立链的开发和运行。\
+综合以上这些因素，我们可以断定：创始小团队基本无力负担 Appchain 独立链的开发和运行。
 
+#### 独立链的集群
+
+<details>
+
+<summary>Cosmos</summary>
+
+Cosmos 致力于解决不同的区块链之间**跨链交互**的问题，目标是组建区块链的互联网。
+
+首先，Cosmos-sdk 用于快速开发并启动一条链，解决了开发难度大的问题。
+
+然后，其设计了 IBC 协议，IBC 是一个通用的方案。在实现了 IBC 协议的链之间，可以无障碍的跨链交互消息。使用 Cosmos-sdk 开发的独立链，能方便地集成 IBC 协议的实现。这样，基于 Cosmos-sdk 开发的链之间，就能无障碍的互通。
+
+但是 Cosmos Appchain，仍然没解决链初始阶段的安全性启动问题，将安全性启动问题抛给了 Appchain 自己去解决。
+
+</details>
+
+<details>
+
+<summary>Polkadot</summary>
+
+Polkadot 目标是成为一个完美的**区块链扩容方案**。
+
+Polkadot 的 Substrate 是区块链的快速开发框架，非常优秀。
+
+Polkadot 共享安全性，其**质押安全性非常高**，这点与合约平台做到了同级。
+
+Polkadot 还支持平行链之间的**跨链消息**，让平行链之间可以无缝实现资产流通。
+
+以上这三点，解决了前面描述的其中三个最大的问题，看起来 Polkadot 的方案完美无缺了。
+
+但是它也带来了新的问题。Polkadot 中继链的安全等级很高，安全机制非常复杂，导致平行链插槽的竞拍质押成本非常高，进而带来了其平行链的年租金非常高，这给平行链的 Token 经济的设计和发行带来了不小的压力。从这一点来说，对平行链的发展不友好。由于这个特性，Polkadot 逐渐由开始面向 Appchain 的中继网络，变成了面向平台的平台（Platform of platform），也即 Gavin 自称的 layer0。Polkadot 的每个插槽，实际连接的是一个同构\[1] \[2] 分片。而每个分片，就是一个平台。100 个插槽，就是 100 个分片。因此波卡可以连接 100 个平台，是一个 100 个分片的网络。而 Polkadot 网络中的应用的开发模式，则再次回到了在某一条平行链上进行合约开发部署的模式。从这个模式来讲，反倒与以太坊 2.0 殊途同归了。
+
+</details>
+
+<details>
+
+<summary>Octopus</summary>
+
+Octopus 目标是提供一个面向 Appchain 的**完整基础协议**。
+
+Octopus 的设计：选择一条合约链平台作为主链，而不运行自己的主链或中继链，所有 Appchain 直接与主链进行交互。这样做的好处是降低了再独立运维一条中继链的成本，从而也降低了 Appchain 的接入成本。让 Appchain 赛道的创业成本更低，存活率更高。
+
+另一方面，由于主链（合约链）的 DeFi 特征，Octopus 实际做了一个_双边市场_：一面是 DeFi 投资方，一面是 Appchain 创业团队方。资方对 Appchain 进行自愿 Staking（类似于传统的 Angel，不过更分散），成为这条 Appchain 的 Validator。当 Staking 量超过一个门槛后，Appchain 就进入启动的流水线。同时，Octopus 还提供一整套云平台自动化工具，让缺乏足够运维知识的资方也可以做 Validator。由于 Octopus 将 Staking 角色与 Validator 角色强绑定，于是在做启动抵押的过程中，就顺便解决了 Appchain 的安全性问题。也就是说 Appchain 的安全性是 Stakeholder 和 Staking 量的副产品。只不过这个安全性在开始启动的时候，数值较低，随着 Appchain 的发展，这个数值会逐渐提高。所以这种安全性被称为 leased security（租用安全性）。这种设计也比较符合传统互联网创业团队的估值增长曲线。
+
+Octopus 的问题是，由于其主链为一条现有的合约链，其灵活性和可定制性会受到一些制约，不如完全自主的中继链那样灵活和可控。Octopus 的协议设计符合资本和金融的基本规则，但实际运行效果如何，还有待观察。
+
+</details>
+
+#### Appchain 开发框架简介
+
+<details>
+
+<summary>Cosmos-sdk</summary>
+
+[https://tendermint.com/sdk/](https://tendermint.com/sdk/)
+
+《Cosmos SDK 开发者文档》对 Cosmos-sdk 描述如下：
+
+Cosmos-sdk 是一个开源框架，用于**构建类似 Cosmos Hub 等基于 PoS 共识算法的多元资产公有区块链，以及基于权威证明共识算法的许可链。**使用 Cosmos SDK 构建的区块链通常被称为专用区块链（application-specific blockchains）。
+
+Cosmos SDK 的目标是让开发者可以快速地构建一条能与其他区块链以原生的方式进行互操作的可定制区块链。在他们的设想中，这套 SDK 就像 Web 应用框架一样，可以让开发者迅速构建出基于 Tendermint 算法的安全区块链应用程序。由 Cosmos SDK 开发的区块链由组合式模块构建，其中大部分模块都是开源的，且任何开发者均可使用。任何人都能为 Cosmos SDK 创建新的模块和集成已经构建的模块，就像将他们导入你的区块链应用程序一样简单。还有一点，Cosmos SDK 是基于功能（capabilities）的系统，这允许开发者可以更好地考虑模块之间交互的安全性。
+
+</details>
+
+<details>
+
+<summary>Substrate</summary>
+
+[https://substrate.dev](https://substrate.dev)
+
+在开发 Polkadot 的过程中，Paritytech 公司将区块链的所有功能，拆解成抽象的设计，实现到一个开源的、通用的区块链框架中，并以此框架为工具，构建 Polkadot 产品。这个框架就是 Substrate。
+
+Substrate 是一个**用 Rust 语言开发的以通用性为目标的区块链开发框架**。它的设计元素，比如密码学算法、存储结构 MPT 树，账户体系等，大部分借鉴自有史以来最成功的以太坊的基础设施，（这个可以理解，Paritytech 最早就是做以太坊客户端起家的，Gavin Wood 也是以太坊的联合创始人之一）。一个框架，要做到通用，就需要高度抽象。而高度抽象的代价往往会显得结构复杂，不易于使用。所以 Substrate 也提供了很多 DSL（领域特定语言），方便新手学习使用。简单归纳一下，Substrate 具有如下特点：
+
+面向通用。其设计面向通用领域，而不是专为某一条链做开发的 SDK。每个团队都可以使用 Substrate 开发出一条完全独立的不依赖于任何既有网络的链出来（比如，使用 Substrate 开发的区块链可以与 Polkadot 完全无关，这也是 Paritytech 的设计目标之一）功能全面。能覆盖区块链几乎所有的场景，可以说是目前市面上功能最全面的区块链框架 Runtime 代码编译成 wasm 执行。Wasm 是当今区块链业界主流的 VM 字节码选择可定制性超强。Substrate 本身是一堆分散的组件，可以在一套规范约束下，自由替换组件，自由组合
+
+作为目前为止最强的区块链开发框架之一，Substrate 受到了越来越多创新团队的欢迎。
+
+</details>
+
+<details>
+
+<summary>Muta</summary>
+
+[https://docs.muta.dev](https://docs.muta.dev)
+
+Muta 是 Nervos 团队开发的区块链 Appchain 开发框架。其文档这样描述：
+
+<mark style="color:purple;">Muta 是一个多面的，高性能的区块链开发框架，让构建区块链变得简单灵活。区块链开发者可使用 Muta 快速构建他们自己的区块链，将焦点聚集在业务功能性上，从而消除了从头搭建底层网络和共识机制的巨量工作。</mark>
+
+Muta 提供的基本核心组件有：
+
+* 一个新设计的共识算法 - Overlord，具有高吞吐量和低延迟
+
+<!---->
+
+* 快速和稳定的存储
+
+<!---->
+
+* 模块化 p2p 网络
+
+<!---->
+
+* &#x20;高性能内存池
+
+Muta 提供定制的部分有：
+
+通过开发服务——包括治理机制、业务逻辑，甚至是连接到区块链的虚拟机等，开发者可方便地定制链的功能。
+
+在 Muta 中，服务是一个抽象层，用于拓展 Muta 框架。每一个服务是相对独立的单元，维护其自己的存储和操作接口。这些服务共同形成了链的状态机部分，在与区块链的底层组件连接后，就成为一条属于你的独一无二的区块链。
+
+</details>
 
 ## 总结
 
 ![](<../.gitbook/assets/image (4) (1).png>)
 
 Web3.0不是在一块空白之地上建立空中楼阁，它致力于解决人类社会发展中的深层次问题。
+
+Web3.0 由理想变成现实，需要无数的团队在各个领域充分实践。在实践中总结经验，修正理论，探索新的编程范式、产品范式、治理范式。在市场的拼杀中，获得用户的第一手反馈，改进产品形态，升级用户体验，最终踏出一条康庄大道。
+
+曙光已经升起，只待勇敢前行。
 
 ## 参考文献
 
@@ -375,3 +490,4 @@ Web3.0不是在一块空白之地上建立空中楼阁，它致力于解决人�
 5. 《刘毅：Web3.0到底是醒世恒言还是危言耸听？》 [https://mp.weixin.qq.com/s?src=11\&timestamp=1618666137\&ver=3014\&signature=gvJ5zET-uhEK6GCJGTPMG70iAollqC4oToIB1aXZrOq6drLiThxPVXc1feP84_J_pcNKnovNPIc2umIuPPHuwzef7mKrD\*sUhGCcH89SG2aUT5-9lp4nNxJ86S9HxLUQ\&new=1](https://mp.weixin.qq.com/s?src=11\&timestamp=1618666137\&ver=3014\&signature=gvJ5zET-uhEK6GCJGTPMG70iAollqC4oToIB1aXZrOq6drLiThxPVXc1feP84\*J\*pcNKnovNPIc2umIuPPHuwzef7mKrD\*sUhGCcH89SG2aUT5-9lp4nNxJ86S9HxLUQ\&new=1)
 6. 《Web3.0应用的新机遇》 [https://mp.weixin.qq.com/s/DxHSRASawmwU\_snbsKXKdw](https://mp.weixin.qq.com/s/DxHSRASawmwU\_snbsKXKdw)
 7. &#x20;对Web3.0概念的梳理[https://rustmagazine.github.io/rust\_magazine\_2021/chapter\_6/web3-part1.html](https://rustmagazine.github.io/rust\_magazine\_2021/chapter\_6/web3-part1.html)
+8. 为什么区块链需要Web3.0 [https://mp.weixin.qq.com/s/zXqJ0BGdEbvZypAwLWKmtQ](https://mp.weixin.qq.com/s/zXqJ0BGdEbvZypAwLWKmtQ)

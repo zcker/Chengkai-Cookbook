@@ -43,3 +43,7 @@
 ## 🎰 算法 & 数学模型 <a href="#algorithm" id="algorithm"></a>
 
 * [📀 多属性决策模型](algorithm/duo-shu-xing-jue-ce-mo-xing.md)
+
+## 📰 时事 <a href="#news" id="news"></a>
+
+* [Page 1](news/page-1.md)
