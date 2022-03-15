@@ -18,21 +18,21 @@ coverY: 0
 
 ### 二、Mininet安装部署
 
-![](<../../.gitbook/assets/3 (3) (1)>)
+![](<../../.gitbook/assets/3 (3) (1) (1)>)
 
-![](<../../.gitbook/assets/4 (2) (1)>)
+![](<../../.gitbook/assets/4 (2) (1) (1)>)
 
-![](<../../.gitbook/assets/5 (2)>)
+![](<../../.gitbook/assets/5 (2) (1)>)
 
 ![](../../.gitbook/assets/6)
 
-![](<../../.gitbook/assets/7 (1)>)
+![](<../../.gitbook/assets/7 (1) (1)>)
 
 ### 三、Mininet命令详解
 
 ### 网络构建启动参数
 
-![](<../../.gitbook/assets/8 (2)>)
+![](<../../.gitbook/assets/8 (2) (1)>)
 
 ![](<../../.gitbook/assets/9 (2)>)
 
@@ -121,17 +121,17 @@ py help('设备名') # 详细命令
 
 ![](<../../.gitbook/assets/3 (2)>)
 
-![](<../../.gitbook/assets/4 (2)>)
+![](<../../.gitbook/assets/4 (2) (1)>)
 
 ![](<../../.gitbook/assets/5 (1)>)
 
 ![](<../../.gitbook/assets/6 (2)>)
 
-![](../../.gitbook/assets/7)
+![](<../../.gitbook/assets/7 (1)>)
 
 ![](<../../.gitbook/assets/8 (3)>)
 
-![](../../.gitbook/assets/9)
+![](<../../.gitbook/assets/9 (1)>)
 
 ![](<../../.gitbook/assets/10 (1)>)
 
