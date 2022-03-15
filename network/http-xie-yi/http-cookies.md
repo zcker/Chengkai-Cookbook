@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# 😉 HTTP cookies
+# 🍒 HTTP cookies
 
 ### 简介
 
