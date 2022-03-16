@@ -290,3 +290,12 @@ sflow-RT中寻找，有值
 ### 丢包率
 
 数据包丢失由接口计数器报告，例如ifindiscards、ifoutdiscards
+
+## 安装host sflow监控
+
+打开防火墙
+
+```
+sudo ufw allow 6343/udp
+sudo ufw allow 8008/tcp
+```
