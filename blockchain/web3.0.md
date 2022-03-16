@@ -10,7 +10,7 @@ coverY: 0
 
 随着Bitcoin的突然提出，相关业界涌现出了一系列技术，包括但不限于以下这些：
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 而其中，web3.0就是本文要探索的内容
 

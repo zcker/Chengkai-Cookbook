@@ -106,7 +106,7 @@ if __name__ == '__main__':
 
 ap见用以太网，sta与ap使用wlan连接
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1).png>)
 {% endhint %}
 
 ```shell
