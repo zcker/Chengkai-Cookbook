@@ -8,7 +8,7 @@ coverY: 0
 
 ## 流程图
 
-![](<../.gitbook/assets/image (9) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
 
 ```mermaid
 graph TD;

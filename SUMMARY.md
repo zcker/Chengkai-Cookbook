@@ -27,6 +27,11 @@
 
 * [📈 typora画图](tool/typora-hua-tu.md)
 
+## 🐧 linux知识 <a href="#linux" id="linux"></a>
+
+* [常用命令](linux/chang-yong-ming-ling/README.md)
+  * [🐒 cURL命令](linux/chang-yong-ming-ling/curl-ming-ling.md)
+
 ## 🎮 书影音 <a href="#book-movie-music" id="book-movie-music"></a>
 
 * [📚 书](book-movie-music/shu/README.md)
@@ -44,7 +49,3 @@
 ## 🎰 算法 & 数学模型 <a href="#algorithm" id="algorithm"></a>
 
 * [📀 多属性决策模型](algorithm/duo-shu-xing-jue-ce-mo-xing.md)
-
-## 📰 时事 <a href="#news" id="news"></a>
-
-* [Page 1](news/page-1.md)
