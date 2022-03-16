@@ -36,8 +36,8 @@
 
 * [📚 书](book-movie-music/shu/README.md)
   * [🏹 史上最伟大的交易](book-movie-music/shu/shi-shang-zui-wei-da-de-jiao-yi.md)
-  * [🤠 《香帅的金融学讲义》 笔记](book-movie-music/shu/xiang-shuai-de-jin-rong-xue-jiang-yi-bi-ji.md)
-  * [😏 《上瘾》书评](book-movie-music/shu/shang-yin-shu-ping.md)
+  * [🥊 《香帅的金融学讲义》 笔记](book-movie-music/shu/xiang-shuai-de-jin-rong-xue-jiang-yi-bi-ji.md)
+  * [📟 《上瘾》书评](book-movie-music/shu/shang-yin-shu-ping.md)
 * [🎬 影](book-movie-music/ying/README.md)
   * [⛰ 影评：攀登者](book-movie-music/ying/ying-ping-pan-deng-zhe.md)
   * [♟ 《后翼弃兵》影评](book-movie-music/ying/hou-yi-qi-bing-ying-ping.md)
@@ -45,7 +45,7 @@
 ## ⛓ 区块链 <a href="#blockchain" id="blockchain"></a>
 
 * [🚜 web3.0](blockchain/web3.0.md)
-* [😛 数字货币挖矿基础知识](blockchain/shu-zi-huo-bi-wa-kuang-ji-chu-zhi-shi.md)
+* [🇦🇮 数字货币挖矿基础知识](blockchain/shu-zi-huo-bi-wa-kuang-ji-chu-zhi-shi.md)
 
 ## 🎰 算法 & 数学模型 <a href="#algorithm" id="algorithm"></a>
 
