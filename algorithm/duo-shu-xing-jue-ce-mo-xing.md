@@ -29,7 +29,7 @@ coverY: 0
 
 **定义：**
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 **例子（GPA）：**
 
@@ -41,7 +41,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/image (12) (1).png>)
 
-![](<../.gitbook/assets/image (13) (1).png>)
+![](<../.gitbook/assets/image (13) (1) (1).png>)
 
 通过将不同属性类型的属性值经过上述公式规范化为统一量纲的数值就，就可以使用我们前面说的加权算术平均算子了。
 

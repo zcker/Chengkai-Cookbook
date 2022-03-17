@@ -257,7 +257,7 @@ if __name__ == '__main__':
 * 模拟添加了wap2加密的协议
 * active\_scan标志位设置为1
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 {% endhint %}
 
 ```shell
