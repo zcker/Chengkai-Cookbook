@@ -276,7 +276,7 @@ DeFi 基础设施层的区块链和 Web3.0 应用中的区块链，它们是有�
 
 下面是 Smart Contract 与 Appchain 的区别。
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 
 从上表可以看出，Smart Contract 的可组合性强，有利于 DeFi 应用的创新。Appchain 自主可控，可定制性高，适合面向具体场景下的 Web3.0 应用。因此，当构建去中心化应用，需要面向具体业务场景做定制时，Appchain 明显具有更多的技术选项。
 

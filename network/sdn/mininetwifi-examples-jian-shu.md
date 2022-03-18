@@ -98,7 +98,7 @@ if __name__ == '__main__':
 ```
 
 {% hint style="info" %}
-![](<../../.gitbook/assets/image (6) (1) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 开启服务：net = Mininet\_wifi(controller=Controller, link=wmediumd, wmediumd\_mode=interference, **config4addr=True**)
 
@@ -376,7 +376,7 @@ if __name__ == '__main__':
 ```
 
 {% hint style="info" %}
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 如何传入参数：
 

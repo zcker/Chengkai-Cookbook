@@ -29,7 +29,9 @@
 
 ## 🐧 linux知识 <a href="#linux" id="linux"></a>
 
-* [常用命令](linux/chang-yong-ming-ling/README.md)
+* [🦛 Ubuntu](linux/ubuntu/README.md)
+  * [🎯 系统目录结构](linux/ubuntu/xi-tong-mu-lu-jie-gou.md)
+* [🏟 常用命令](linux/chang-yong-ming-ling/README.md)
   * [🐒 cURL命令](linux/chang-yong-ming-ling/curl-ming-ling.md)
 
 ## 🎮 书影音 <a href="#book-movie-music" id="book-movie-music"></a>

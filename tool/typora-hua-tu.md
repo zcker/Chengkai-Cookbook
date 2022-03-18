@@ -59,7 +59,7 @@ John->>Alice:Hello
 
 ## 状态图
 
-![](<../.gitbook/assets/image (6) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1) (1) (1).png>)
 
 ```mermaid
 stateDiagram
