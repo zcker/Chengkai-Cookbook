@@ -87,21 +87,21 @@ py help('设备名') # 详细命令
 
 ### 执行操作
 
-![](<../../.gitbook/assets/image (3) (1) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (13) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (13) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (1).png>)
 
 ![](<../../.gitbook/assets/image (1) (1).png>)
 
-![](<../../.gitbook/assets/image (14) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (14) (1) (1) (1) (1) (1).png>)
 
 ### 注意事项
 

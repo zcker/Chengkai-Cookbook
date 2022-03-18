@@ -51,3 +51,4 @@
 ## 🎰 算法 & 数学模型 <a href="#algorithm" id="algorithm"></a>
 
 * [📀 多属性决策模型](algorithm/duo-shu-xing-jue-ce-mo-xing.md)
+* [🚜 模糊逻辑算法](algorithm/mo-hu-luo-ji-suan-fa.md)

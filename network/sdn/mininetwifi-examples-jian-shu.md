@@ -98,7 +98,7 @@ if __name__ == '__main__':
 ```
 
 {% hint style="info" %}
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 开启服务：net = Mininet\_wifi(controller=Controller, link=wmediumd, wmediumd\_mode=interference, **config4addr=True**)
 
@@ -106,7 +106,7 @@ if __name__ == '__main__':
 
 ap见用以太网，sta与ap使用wlan连接
 
-![](<../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
 {% endhint %}
 
 ```shell
@@ -252,12 +252,12 @@ if __name__ == '__main__':
 ```
 
 {% hint style="info" %}
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (1).png>)
 
 * 模拟添加了wap2加密的协议
 * active\_scan标志位设置为1
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 {% endhint %}
 
 ```shell
@@ -380,7 +380,7 @@ if __name__ == '__main__':
 
 如何传入参数：
 
-![](<../../.gitbook/assets/image (14) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (14) (1) (1) (1) (1).png>)
 {% endhint %}
 
 ```shell
