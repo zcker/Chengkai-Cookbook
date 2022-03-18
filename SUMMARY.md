@@ -55,4 +55,4 @@
 
 ## 🐍 python
 
-* [with open方法](python/with-open-fang-fa.md)
+* [🚪 with open方法](python/with-open-fang-fa.md)
