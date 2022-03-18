@@ -52,3 +52,7 @@
 
 * [📀 多属性决策模型](algorithm/duo-shu-xing-jue-ce-mo-xing.md)
 * [🚜 模糊逻辑算法](algorithm/mo-hu-luo-ji-suan-fa.md)
+
+## 🐍 python
+
+* [with open方法](python/with-open-fang-fa.md)
