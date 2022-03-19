@@ -179,8 +179,58 @@ ai.getResult(object);
 
 ### &#x20;配置说明
 
-```
+```javascript
 # 数据配置
+var obj = {
+	crisp_input: [0.3, 0.8, 0.7],
+	variables_input: [
+	{
+		name: "Meal time",
+		setsName: ["Breakfast time", "Lunch time", "Dinner time"],
+		sets: [
+		# 矩形
+		[0,0,0.2,0.3],
+		[0.2,0.3,0.4,0.5],
+		[0.4,0.5,0.6,0.7]
+		]
+	},
+	{
+		name: "Weather type",
+		setsName: ["Freezing", "Cold", "Warm", "Hot", "Melting"],
+		sets: [
+		[0,0.1,0.2,0.4],
+		[0.25,0.40,0.5,0.7],
+		[0.55,0.6,0.65,0.75],
+		[0.60,0.7,0.8,1],
+		[0.7,0.8,0.9,1]
+		]
+	},
+	{
+		name: "Season",
+		setsName: ["Autumn", "Winter", "Spring", "Summer"],
+		sets: [
+		[0,0,0.3,0.4],
+		[0.2,0.3,0.4,0.5],
+		[0.3,0.4,0.5,0.6],
+		[0.5, 0.6, 0.7,1]
+		]
+	}
+	],
+	variable_output: {
+		name: "Desirability",
+		setsName: ["Undesirable", "Desirable", "Very Desirable"],
+		sets: [
+		[0,0,25,50],
+		[25,50,50,75],
+		[50,75,100,100]
+		]
+	},
+	inferences: [
+	[0,2,0],
+	[0,1,2],
+	[2,1,0]
+	]
+};dds
 ```
 
 ### 源码简析
