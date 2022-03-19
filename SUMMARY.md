@@ -37,7 +37,7 @@
 ## 🎮 书影音 <a href="#book-movie-music" id="book-movie-music"></a>
 
 * [📚 书](book-movie-music/shu/README.md)
-  * [🏹 史上最伟大的交易](book-movie-music/shu/shi-shang-zui-wei-da-de-jiao-yi.md)
+  * [🏹 《史上最伟大的交易》笔记](book-movie-music/shu/shi-shang-zui-wei-da-de-jiao-yi-bi-ji.md)
   * [🥊 《香帅的金融学讲义》 笔记](book-movie-music/shu/xiang-shuai-de-jin-rong-xue-jiang-yi-bi-ji.md)
   * [📟 《上瘾》书评](book-movie-music/shu/shang-yin-shu-ping.md)
 * [🎬 影](book-movie-music/ying/README.md)

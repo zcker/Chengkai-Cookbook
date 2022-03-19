@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/image (16).png
 coverY: 0
 ---
 
-# 沉默的羔羊
+# 🐏 沉默的羔羊
 
 ![](<../../.gitbook/assets/image (18) (1).png>)
 
