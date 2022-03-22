@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/0 (2) (1)
+cover: ../../.gitbook/assets/0 (2) (1) (1)
 coverY: 0
 ---
 
@@ -7,7 +7,7 @@ coverY: 0
 
 ### 互联网时代的卷烟
 
-![](<../../.gitbook/assets/0 (2) (1)>)
+![](<../../.gitbook/assets/0 (2) (1) (1)>)
 
 ### 感悟
 

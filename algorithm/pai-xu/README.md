@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# 排序
+# 💵 排序
 
 ### 1. 快速排序
 
@@ -16,17 +16,17 @@ coverY: 0
 
 #### 1.1. 单向扫描法
 
-![](<.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
-![](<.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (20).png>)
 
 ### 2. 树
 
-![](<.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
 例子中是树的遍历：
 
-![](<.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21).png>)
 
 ```java
 package 排序;
@@ -108,4 +108,4 @@ public class Example2 {
 }
 ```
 
-![](<.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (24).png>)

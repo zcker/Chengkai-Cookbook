@@ -12,9 +12,9 @@ coverY: 0
 
 ![](../../.gitbook/assets/0)
 
-![](<../../.gitbook/assets/1 (4) (1)>)
+![](<../../.gitbook/assets/1 (4) (1) (1)>)
 
-![](<../../.gitbook/assets/2 (3) (1)>)
+![](<../../.gitbook/assets/2 (3) (1) (1)>)
 
 ### 二、Mininet安装部署
 
