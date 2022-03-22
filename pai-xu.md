@@ -1,4 +1,6 @@
 ---
+cover: >-
+  https://images.unsplash.com/photo-1632695613630-baa45037c7aa?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDc5NjA0NjI&ixlib=rb-1.2.1&q=85
 coverY: 0
 ---
 
@@ -14,17 +16,17 @@ coverY: 0
 
 #### 1.1. 单向扫描法
 
-![示意](http://img.770627.xyz/20200919163114.png)
+![](<.gitbook/assets/image (15).png>)
 
-![图解](http://img.770627.xyz/20200919163251.png)
+![](<.gitbook/assets/image (20).png>)
 
 ### 2. 树
 
-![image-20200923095625794](http://img.770627.xyz/20200923095632.png)
+![](<.gitbook/assets/image (14).png>)
 
 例子中是树的遍历：
 
-![image-20200923101111908](http://img.770627.xyz/20200923101111.png)
+![](<.gitbook/assets/image (21).png>)
 
 ```java
 package 排序;
@@ -106,4 +108,4 @@ public class Example2 {
 }
 ```
 
-![image-20200923101146257](http://img.770627.xyz/20200923101146.png)
+![](<.gitbook/assets/image (24).png>)

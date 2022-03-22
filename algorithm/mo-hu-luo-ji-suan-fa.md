@@ -77,7 +77,7 @@ coverY: 0
 
 经过模糊逻辑运算后，我们可以得到<mark style="color:purple;">多维真值表</mark>，根据每个维度的模糊结果来选择行动或者打分。我们以一个简单例子为例，是关于空战的例子，根据我机指向对手角度的好坏、距离对手相对距离大小，给出“方位/距离态势”评分，得分越高态势越有利
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 左边是两个模糊集合，分别是距离和指向角度，右边是模糊规则，表中的数字表示方位/距离态势评分，得分越高态势越有利。比如，如果经过输入数据模糊化，得到相对距离很近以及指向角度很正的模糊结果，我们就会查表得3分，即认为态势非常有利。
 
@@ -99,7 +99,7 @@ coverY: 0
 
 如下图，表格为规则，隶属度函数在表格下面，Taste 和 Hunger 的取值为了方便起见，分别设为5.625和5。因此模糊化之后 Taste(S)=0：Taste(M)=0.75，Taste(L)=0.25, Hunger(S)=0, Hunger(M)=5, Hunger(L)=0。规则就是比如：Taste(M)与Hunger(M)输出M，Hunger(M)与Taste(L)输出L。
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24) (1).png>)
 
 可见除了规则表中标记成红色和绿色的部分，其他的输出都为0。
 
@@ -110,7 +110,7 @@ coverY: 0
 
 同样的如果Taste和Hunger分别取5.625和4.375，如图会有下面结果
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 表中：
 
@@ -126,7 +126,7 @@ coverY: 0
 
 #### **加权平均判决法**
 
-![](<../.gitbook/assets/image (20).png>)\
+![](<../.gitbook/assets/image (20) (1).png>)\
 其中FS就是上一步输出的Fire Strength, OW (Output Wight)是权重。权重通常是取每个集合的中间值，分配食物的例子OW(S)=2.5, OW(M)=5, OW(L)=7.5。
 
 如果Taste = 5.625, Hunger = 4.375\
@@ -158,7 +158,7 @@ Change-in-error指的是角速度偏差，error指的是角度偏差，表中的
 
 ![](<../.gitbook/assets/image (4).png>)
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 ## 实现方法
 
