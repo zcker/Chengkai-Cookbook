@@ -12,7 +12,7 @@ coverY: 0
 
 ![](../../.gitbook/assets/0)
 
-![](<../../.gitbook/assets/1 (4)>)
+![](<../../.gitbook/assets/1 (4) (1)>)
 
 ![](<../../.gitbook/assets/2 (3) (1)>)
 
@@ -125,7 +125,7 @@ py help('设备名') # 详细命令
 
 ![](<../../.gitbook/assets/5 (1)>)
 
-![](<../../.gitbook/assets/6 (2)>)
+![](<../../.gitbook/assets/6 (2) (1)>)
 
 ![](<../../.gitbook/assets/7 (1)>)
 

@@ -16,7 +16,7 @@ coverY: 0
 
 ### 主界面
 
-![](<../../.gitbook/assets/0 (4)>)
+![](<../../.gitbook/assets/0 (4) (1)>)
 
 ### world-map
 
