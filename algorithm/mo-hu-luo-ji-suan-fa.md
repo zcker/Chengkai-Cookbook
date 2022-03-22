@@ -69,7 +69,7 @@ coverY: 0
 
 常见的隶属度函数包括：高斯隶属函数、广义钟型隶属函数、三角形隶属函数、梯形隶属函数、Z型隶属函数等。
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
 ### 模糊规则
 
