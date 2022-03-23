@@ -63,7 +63,7 @@ chmod +x python_sudo.sh.sh
 
 ### 方法2
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
 ## 参考资料
 

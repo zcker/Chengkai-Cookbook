@@ -91,7 +91,7 @@ coverY: 0
 
 "非"的运算就更简单了，直接如下图所示取相反的折线就完了。
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (25) (1).png>)
 
 #### 决策规则例
 

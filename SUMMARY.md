@@ -19,7 +19,7 @@
 
 * [📊 可视化图表库](frontend/ke-shi-hua-tu-biao-ku/README.md)
   * [📀 echarts](frontend/ke-shi-hua-tu-biao-ku/echarts/README.md)
-    * [Page 2](frontend/ke-shi-hua-tu-biao-ku/echarts/page-2.md)
+    * [📈 折线图](frontend/ke-shi-hua-tu-biao-ku/echarts/zhe-xian-tu.md)
 * [🖨 微信小程序](frontend/wei-xin-xiao-cheng-xu/README.md)
   * [📞 微信小程序：填坑，理解，记录](frontend/wei-xin-xiao-cheng-xu/wei-xin-xiao-cheng-xu-tian-keng-li-jie-ji-lu.md)
 
