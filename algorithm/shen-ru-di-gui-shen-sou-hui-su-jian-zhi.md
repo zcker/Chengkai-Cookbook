@@ -1,4 +1,10 @@
-# 深入递归,深搜,回溯,剪枝
+---
+cover: >-
+  https://images.unsplash.com/photo-1502082553048-f009c37129b9?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHx0cmVlfGVufDB8fHx8MTY0ODA0NjcxMw&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
+# 🌴 深入递归,深搜,回溯,剪枝
 
 ## 深入递归,深搜,回溯,剪枝
 
@@ -15,7 +21,7 @@
 
 解本题，首先找规律：
 
-![](<../../.gitbook/assets/0 (2)>)
+![](<../.gitbook/assets/0 (2)>)
 
 ```java
 package 深入递归;
@@ -113,7 +119,7 @@ public class Example1 {
 
 #### 3.1递归写法
 
-![](<../../.gitbook/assets/1 (4)>)
+![](<../.gitbook/assets/1 (4)>)
 
 ```java
 package 深入递归;
@@ -162,7 +168,7 @@ public class Example2 {
 
 #### 3.2 迭代写法
 
-![](<../../.gitbook/assets/2 (3)>)
+![](<../.gitbook/assets/2 (3)>)
 
 ```java
 package 深入递归;

@@ -19,6 +19,7 @@
 
 * [📊 可视化图表库](frontend/ke-shi-hua-tu-biao-ku/README.md)
   * [📀 echarts](frontend/ke-shi-hua-tu-biao-ku/echarts/README.md)
+    * [🎥 使用经验](frontend/ke-shi-hua-tu-biao-ku/echarts/shi-yong-jing-yan.md)
     * [📈 折线图](frontend/ke-shi-hua-tu-biao-ku/echarts/zhe-xian-tu.md)
 * [🖨 微信小程序](frontend/wei-xin-xiao-cheng-xu/README.md)
   * [📞 微信小程序：填坑，理解，记录](frontend/wei-xin-xiao-cheng-xu/wei-xin-xiao-cheng-xu-tian-keng-li-jie-ji-lu.md)
@@ -59,9 +60,8 @@
 * [📀 多属性决策模型](algorithm/duo-shu-xing-jue-ce-mo-xing.md)
 * [🚜 模糊逻辑算法](algorithm/mo-hu-luo-ji-suan-fa.md)
 * [⛺ 查询与排序](algorithm/cha-xun-yu-pai-xu.md)
-* [💵 排序](algorithm/pai-xu/README.md)
-  * [深入递归,深搜,回溯,剪枝](algorithm/pai-xu/shen-ru-di-gui-shen-sou-hui-su-jian-zhi.md)
-* [Page 1](algorithm/page-1.md)
+* [💵 排序](algorithm/pai-xu.md)
+* [🌴 深入递归,深搜,回溯,剪枝](algorithm/shen-ru-di-gui-shen-sou-hui-su-jian-zhi.md)
 
 ## 🐍 python
 

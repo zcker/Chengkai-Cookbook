@@ -1,6 +1,6 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1632695613630-baa45037c7aa?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDc5NjA0NjI&ixlib=rb-1.2.1&q=85
+  https://images.unsplash.com/photo-1616628188538-0bc97a2f741b?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxzb3J0fGVufDB8fHx8MTY0ODA0NjY4NA&ixlib=rb-1.2.1&q=85
 coverY: 0
 ---
 
@@ -16,17 +16,17 @@ coverY: 0
 
 #### 1.1. 单向扫描法
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15).png>)
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20).png>)
 
 ### 2. 树
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14).png>)
 
 例子中是树的遍历：
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21).png>)
 
 ```java
 package 排序;
@@ -108,4 +108,4 @@ public class Example2 {
 }
 ```
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24).png>)
