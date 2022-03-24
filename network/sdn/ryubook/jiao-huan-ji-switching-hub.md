@@ -42,13 +42,3 @@ coverY: 0
 
 ### 交换机类的定义及初始化
 
-```python
-class SimpleSwitch13(app_manager.RyuApp):    # 繼承了 ryu.base.app_manager.RyuApp
-    # 使用 OpenFlow 1.3 
-    OFP_VERSIONS = [ofproto_v1_3.OFP_VERSION]
-
-    def __init__(self, *args, **kwargs):
-        
-        super(SimpleSwitch13, self).__init__(*args, **kwargs)
-        self.mac_to_port = {}    # 定義 MAC 位址表的 mac_to_port
-```
