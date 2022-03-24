@@ -45,6 +45,10 @@
 
 ## 🎮 书影音 <a href="#book-movie-music" id="book-movie-music"></a>
 
+* [💸 知乎好文](book-movie-music/zhi-hu-hao-wen/README.md)
+  * [📞 为什么现在的年轻人不再以劳动为荣了？](book-movie-music/zhi-hu-hao-wen/wei-shi-mo-xian-zai-de-nian-qing-ren-bu-zai-yi-lao-dong-wei-rong-le.md)
+  * [👷 当工厂流水线工人怎么就不体面了？](book-movie-music/zhi-hu-hao-wen/dang-gong-chang-liu-shui-xian-gong-ren-zen-mo-jiu-bu-ti-mian-le.md)
+  * [🇬🇸 什么是中式恐怖？](book-movie-music/zhi-hu-hao-wen/shi-mo-shi-zhong-shi-kong-bu.md)
 * [📚 书](book-movie-music/shu/README.md)
   * [🏹 《史上最伟大的交易》笔记](book-movie-music/shu/shi-shang-zui-wei-da-de-jiao-yi-bi-ji.md)
   * [🥊 《香帅的金融学讲义》 笔记](book-movie-music/shu/xiang-shuai-de-jin-rong-xue-jiang-yi-bi-ji.md)
