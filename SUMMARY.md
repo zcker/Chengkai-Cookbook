@@ -37,17 +37,15 @@
   * [🚪 with open方法](backend/python/with-open-fang-fa.md)
 * [☕ Java](backend/java/README.md)
   * [⭕ 优先级数轮转法](backend/java/you-xian-ji-shu-lun-zhuan-fa.md)
+* [🛠 编程工具](backend/bian-cheng-gong-ju/README.md)
+  * [📈 typora画图](backend/bian-cheng-gong-ju/typora-hua-tu.md)
 
-## 🛠 工具说明 <a href="#tool" id="tool"></a>
+## 🐧 linux\&OS <a href="#linux_OS" id="linux_OS"></a>
 
-* [📈 typora画图](tool/typora-hua-tu.md)
-
-## 🐧 linux知识 <a href="#linux" id="linux"></a>
-
-* [🦛 Ubuntu](linux/ubuntu/README.md)
-  * [🎯 系统目录结构](linux/ubuntu/xi-tong-mu-lu-jie-gou.md)
-* [🏟 常用命令](linux/chang-yong-ming-ling/README.md)
-  * [🐒 cURL命令](linux/chang-yong-ming-ling/curl-ming-ling.md)
+* [🦛 Ubuntu](linux\_OS/ubuntu/README.md)
+  * [🎯 系统目录结构](linux\_OS/ubuntu/xi-tong-mu-lu-jie-gou.md)
+* [🏟 常用命令](linux\_OS/chang-yong-ming-ling/README.md)
+  * [🐒 cURL命令](linux\_OS/chang-yong-ming-ling/curl-ming-ling.md)
 
 ## 🎮 书影音 <a href="#book-movie-music" id="book-movie-music"></a>
 

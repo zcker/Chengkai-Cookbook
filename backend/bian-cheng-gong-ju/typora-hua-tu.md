@@ -8,7 +8,7 @@ coverY: 0
 
 ## 流程图
 
-![](<../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png>)
 
 ```mermaid
 graph TD;
@@ -31,7 +31,7 @@ B["特殊字符:#9829;"]-.->支持fontawesome(fa:fa-camera-retro);
 
 ## 子图
 
-![](<../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png>)
 
 ```mermaid
 graph TB
@@ -49,7 +49,7 @@ graph TB
 
 ## 时序图
 
-![](<../.gitbook/assets/image (8) (2) (1).png>)
+![](<../../.gitbook/assets/image (8) (2) (1).png>)
 
 ```mermaid
 sequenceDiagram 
@@ -59,7 +59,7 @@ John->>Alice:Hello
 
 ## 状态图
 
-![](<../.gitbook/assets/image (6) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1) (1) (1).png>)
 
 ```mermaid
 stateDiagram
