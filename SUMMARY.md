@@ -46,6 +46,7 @@
 ## 🎮 书影音 <a href="#book-movie-music" id="book-movie-music"></a>
 
 * [💸 知乎好文](book-movie-music/zhi-hu-hao-wen/README.md)
+  * [🛺 你读过的最有力量的一段文字是什么？](book-movie-music/zhi-hu-hao-wen/ni-du-guo-de-zui-you-li-liang-de-yi-duan-wen-zi-shi-shi-mo.md)
   * [🚜 北欧普通人生活是怎样的？](book-movie-music/zhi-hu-hao-wen/bei-ou-pu-tong-ren-sheng-huo-shi-zen-yang-de.md)
   * [📞 为什么现在的年轻人不再以劳动为荣了？](book-movie-music/zhi-hu-hao-wen/wei-shi-mo-xian-zai-de-nian-qing-ren-bu-zai-yi-lao-dong-wei-rong-le.md)
   * [👷 当工厂流水线工人怎么就不体面了？](book-movie-music/zhi-hu-hao-wen/dang-gong-chang-liu-shui-xian-gong-ren-zen-mo-jiu-bu-ti-mian-le.md)
