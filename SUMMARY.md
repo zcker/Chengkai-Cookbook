@@ -19,7 +19,7 @@
     * [ryubook原书](https://book.ryu-sdn.org/zh\_tw/html/index.html)
     * [🛼 第一章 交换机 Switching Hub](network/sdn/ryubook/jiao-huan-ji-switching-hub.md)
 
-## 🔺 前端 HTML+CSS+JavaScript <a href="#frontend" id="frontend"></a>
+## 🔺 前端  <a href="#frontend" id="frontend"></a>
 
 * [📊 可视化图表库](frontend/ke-shi-hua-tu-biao-ku/README.md)
   * [📀 echarts](frontend/ke-shi-hua-tu-biao-ku/echarts/README.md)
@@ -28,9 +28,15 @@
 * [🖨 微信小程序](frontend/wei-xin-xiao-cheng-xu/README.md)
   * [📞 微信小程序：填坑，理解，记录](frontend/wei-xin-xiao-cheng-xu/wei-xin-xiao-cheng-xu-tian-keng-li-jie-ji-lu.md)
 
-## ☕ Java
+## 🎒 后端 <a href="#backend" id="backend"></a>
 
-* [⭕ 优先级数轮转法](java/you-xian-ji-shu-lun-zhuan-fa.md)
+* [© C/C++](backend/c-c++/README.md)
+  * [🪁 宏定义](backend/c-c++/hong-ding-yi.md)
+* [📳 结构体做参数传递](backend/jie-gou-ti-zuo-can-shu-chuan-di.md)
+* [🐍 Python](backend/python/README.md)
+  * [🚪 with open方法](backend/python/with-open-fang-fa.md)
+* [☕ Java](backend/java/README.md)
+  * [⭕ 优先级数轮转法](backend/java/you-xian-ji-shu-lun-zhuan-fa.md)
 
 ## 🛠 工具说明 <a href="#tool" id="tool"></a>
 
@@ -60,7 +66,6 @@
   * [📞 为什么现在的年轻人不再以劳动为荣了？](book-movie-music/zhi-hu-hao-wen/wei-shi-mo-xian-zai-de-nian-qing-ren-bu-zai-yi-lao-dong-wei-rong-le.md)
   * [👷 当工厂流水线工人怎么就不体面了？](book-movie-music/zhi-hu-hao-wen/dang-gong-chang-liu-shui-xian-gong-ren-zen-mo-jiu-bu-ti-mian-le.md)
   * [🏓 普通人的一生应该是怎样的？](book-movie-music/zhi-hu-hao-wen/pu-tong-ren-de-yi-sheng-ying-gai-shi-zen-yang-de.md)
-  * [Page 1](book-movie-music/zhi-hu-hao-wen/page-1.md)
   * [🧠 人脑由粒子构成，而粒子遵循物理规律，那人的意识还自由吗？](book-movie-music/zhi-hu-hao-wen/ren-nao-you-li-zi-gou-cheng-er-li-zi-zun-xun-wu-li-gui-lv-na-ren-de-yi-shi-huan-zi-you-ma.md)
   * [🇬🇸 什么是中式恐怖？](book-movie-music/zhi-hu-hao-wen/shi-mo-shi-zhong-shi-kong-bu.md)
 * [📚 书](book-movie-music/shu/README.md)
@@ -84,7 +89,3 @@
 * [⛺ 查询与排序](algorithm/cha-xun-yu-pai-xu.md)
 * [💵 排序](algorithm/pai-xu.md)
 * [🌴 深入递归,深搜,回溯,剪枝](algorithm/shen-ru-di-gui-shen-sou-hui-su-jian-zhi.md)
-
-## 🐍 python
-
-* [🚪 with open方法](python/with-open-fang-fa.md)

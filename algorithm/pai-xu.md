@@ -26,7 +26,7 @@ coverY: 0
 
 例子中是树的遍历：
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 ```java
 package 排序;

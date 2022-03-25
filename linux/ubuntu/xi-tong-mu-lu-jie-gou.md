@@ -6,7 +6,7 @@ coverY: 0
 
 # 🎯 系统目录结构
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 ![](<../../.gitbook/assets/image (6).png>)
 
