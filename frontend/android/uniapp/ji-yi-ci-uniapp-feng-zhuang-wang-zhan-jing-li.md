@@ -1,6 +1,10 @@
-# Page 1
+---
+cover: >-
+  https://images.unsplash.com/photo-1645389776715-6fcb5db13ffe?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDgzNjMzNjI&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
 
-## 记一次uniapp封装网站经历
+# 🎬 记一次uniapp封装网站经历
 
 为了更方便的学习刑大的课程，我决定将网站封装为APP，并形成一个框架。而为了以后更方便的封装网站，我记录了这篇文章。
 
