@@ -37,6 +37,7 @@
   * [🪁 宏定义](backend/c-c++/hong-ding-yi.md)
 * [📳 结构体做参数传递](backend/jie-gou-ti-zuo-can-shu-chuan-di.md)
 * [🐍 Python](backend/python/README.md)
+  * [🏹 python基础要点](backend/python/python-ji-chu-yao-dian.md)
   * [🚪 with open方法](backend/python/with-open-fang-fa.md)
 * [☕ Java](backend/java/README.md)
   * [⭕ 优先级数轮转法](backend/java/you-xian-ji-shu-lun-zhuan-fa.md)
