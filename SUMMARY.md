@@ -47,7 +47,7 @@
 ## ⛓ 区块链&加密货币 <a href="#blockchain" id="blockchain"></a>
 
 * [🪙 BTC](blockchain/btc/README.md)
-  * [Page 1](blockchain/btc/page-1.md)
+  * [BTC白皮书](https://www.notion.so/zcker-economics/BTC-588acd3156df442ebff1921c7a200171)
 * [🚜 web3.0](blockchain/web3.0.md)
 * [🇦🇮 数字货币挖矿基础知识](blockchain/shu-zi-huo-bi-wa-kuang-ji-chu-zhi-shi.md)
 
