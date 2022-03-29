@@ -44,6 +44,13 @@
 * [🛠 编程工具](backend/bian-cheng-gong-ju/README.md)
   * [📈 typora画图](backend/bian-cheng-gong-ju/typora-hua-tu.md)
 
+## ⛓ 区块链&加密货币 <a href="#blockchain" id="blockchain"></a>
+
+* [🪙 BTC](blockchain/btc/README.md)
+  * [Page 1](blockchain/btc/page-1.md)
+* [🚜 web3.0](blockchain/web3.0.md)
+* [🇦🇮 数字货币挖矿基础知识](blockchain/shu-zi-huo-bi-wa-kuang-ji-chu-zhi-shi.md)
+
 ## 🐧 linux\&OS <a href="#linux_OS" id="linux_OS"></a>
 
 * [🦛 Ubuntu](linux\_OS/ubuntu/README.md)
@@ -80,11 +87,6 @@
   * [⛰ 影评：攀登者](book-movie-music/ying/ying-ping-pan-deng-zhe.md)
   * [♟ 《后翼弃兵》影评](book-movie-music/ying/hou-yi-qi-bing-ying-ping.md)
   * [🐏 沉默的羔羊](book-movie-music/ying/chen-mo-de-gao-yang.md)
-
-## ⛓ 区块链 <a href="#blockchain" id="blockchain"></a>
-
-* [🚜 web3.0](blockchain/web3.0.md)
-* [🇦🇮 数字货币挖矿基础知识](blockchain/shu-zi-huo-bi-wa-kuang-ji-chu-zhi-shi.md)
 
 ## 🎰 算法 & 数学模型 <a href="#algorithm" id="algorithm"></a>
 

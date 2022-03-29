@@ -4,7 +4,7 @@
 
 内置有[导出图片](https://echarts.apache.org/zh/option.html#toolbox.feature.saveAsImage)，[数据视图](https://echarts.apache.org/zh/option.html#toolbox.feature.dataView)，[动态类型切换](https://echarts.apache.org/zh/option.html#toolbox.feature.magicType)，[数据区域缩放](https://echarts.apache.org/zh/option.html#toolbox.feature.dataZoom)，[重置](https://echarts.apache.org/zh/option.html#toolbox.feature.reset)五个工具。
 
-![配置效果](<../../../.gitbook/assets/image (16).png>)
+![配置效果](<../../../.gitbook/assets/image (16) (1).png>)
 
 常用配置如下：
 
