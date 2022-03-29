@@ -16,7 +16,7 @@ coverY: 0
 
 #### 1.1. 单向扫描法
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 ![](<../.gitbook/assets/image (20).png>)
 

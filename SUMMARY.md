@@ -42,6 +42,7 @@
 * [☕ Java](backend/java/README.md)
   * [⭕ 优先级数轮转法](backend/java/you-xian-ji-shu-lun-zhuan-fa.md)
 * [🛠 编程工具](backend/bian-cheng-gong-ju/README.md)
+  * [♐ Git底层原理图](backend/bian-cheng-gong-ju/git-di-ceng-yuan-li-tu.md)
   * [📈 typora画图](backend/bian-cheng-gong-ju/typora-hua-tu.md)
 
 ## ⛓ 区块链&加密货币 <a href="#blockchain" id="blockchain"></a>

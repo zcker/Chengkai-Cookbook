@@ -108,7 +108,7 @@ SDN将网络架构进行分层，进行解耦与开拓市场
 
 #### 应用场景
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
 ### 五、SDN对于行业的影响
 
@@ -116,17 +116,17 @@ SDN将网络架构进行分层，进行解耦与开拓市场
 
 #### 新产业格局
 
-![](<../../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1).png>)
 
 #### 论文推荐
 
 
 
-![](<../../.gitbook/assets/image (5) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png>)
 
 ### 六、我们如何行动？
 
-![](<../../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (7) (1) (1) (1) (1).png>)
 

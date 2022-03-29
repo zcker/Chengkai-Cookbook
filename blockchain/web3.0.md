@@ -10,7 +10,7 @@ coverY: 0
 
 随着Bitcoin的突然提出，相关业界涌现出了一系列技术，包括但不限于以下这些：
 
-![](<../.gitbook/assets/image (5) (1) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1) (1).png>)
 
 而其中，web3.0就是本文要探索的内容
 
@@ -26,7 +26,7 @@ Tim Bernard-Lee亲自发起了Solid项目 ，旨在让用户能控制他们在 W
 
 Gavin Wood创办了Polkadot项目，旨在通过提供开箱即用的共享安全性保证和可互操作的多链网络架构，为用于承载Web3.0使命的各种parachain项目创建一个创新的平台。<mark style="color:blue;">Gavin博士把Polkadot定义成为一个layer0的项目，即平台的平台 (The platform of platforms)。以此平台为根，期待绽放新时代的无穷分支没有边界的应用网络，从而逐渐侵蚀和替代现有的Web2.0互联网。</mark>
 
-![](<../.gitbook/assets/image (15) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
 
 当然，业界还存在更多其它的有价值的观点，并在不同的方向上进行着尝试。
 
@@ -238,7 +238,7 @@ DeFi 希望利用区块链技术创建一个更开放和透明的金融服务系
 
 互联网金融/金融科技和去中心化金融 DeFi，两者的技术架构图对比如下：
 
-![](<../.gitbook/assets/image (16) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (16) (1) (1) (1) (1).png>)
 
 通过简单对比两者的架构图，DeFi 应用正在试图从基础层上重建金融服务，其运行成本会比传统金融低几个数量级。
 
@@ -248,13 +248,13 @@ DeFi 希望利用区块链技术创建一个更开放和透明的金融服务系
 
 传统金融与互联网的关系，可以用下图展示：
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 传统金融为互联网创业企业提供金融支持（**天使，种子，贷款**等形式），而互联网企业将产生的利润的一部分，作为本息还给金融机构，实现了金融与实体产业的闭环。
 
 类似地，在 Web3.0 时代，我们认为 DeFi 与 Web3.0 的关系如下图所示：
 
-![](<../.gitbook/assets/image (15) (1) (1).png>)
+![](<../.gitbook/assets/image (15) (1) (1) (1).png>)
 
 上图中 DeFi 给 Web3.0 的应用项目（App）融资，Web3.0 的应用项目产生持久利润（类比 Web2.0 互联网应用的持久利润），并对投资方产生（返还，分配）利息收益，从而对 DeFi 实现真正的价值输入。
 
@@ -294,7 +294,7 @@ Token 是区块链中必不可少的组成部分。
 
 而 Untitled INC 更进一步，对目前市面上的 Token 给出更精细的五种分类维度：目的、用途、法律、底层价值、技术。
 
-![](<../.gitbook/assets/image (17) (1).png>)
+![](<../.gitbook/assets/image (17) (1) (1).png>)
 
 2017 年 6 月 SEC（美国证监会）宣布 DAO Token 为证券（参见《SEC Issues Investigative Report Concluding DAO Tokens, a Digital Asset, Were Securities》），按证券相关法律进行监管。这是对区块链 Token 的一次重大定性。
 
@@ -471,7 +471,7 @@ Muta 提供定制的部分有：
 
 ## 总结
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 Web3.0不是在一块空白之地上建立空中楼阁，它致力于解决人类社会发展中的深层次问题。
 
