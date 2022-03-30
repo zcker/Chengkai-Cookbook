@@ -60,7 +60,7 @@ void change(struct student* p)
 }
 ```
 
-![](../.gitbook/assets/20140815151805750.jpeg)
+![](../../.gitbook/assets/20140815151805750.jpeg)
 
 可以看到，通过地址传递修改了结构体内的数据
 

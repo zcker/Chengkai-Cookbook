@@ -35,7 +35,7 @@
 
 * [© C/C++](backend/c-c++/README.md)
   * [🪁 宏定义](backend/c-c++/hong-ding-yi.md)
-* [📳 结构体做参数传递](backend/jie-gou-ti-zuo-can-shu-chuan-di.md)
+  * [📳 结构体做参数传递](backend/c-c++/jie-gou-ti-zuo-can-shu-chuan-di.md)
 * [🐍 Python](backend/python/README.md)
   * [🏹 python基础要点](backend/python/python-ji-chu-yao-dian.md)
   * [🚪 with open方法](backend/python/with-open-fang-fa.md)
@@ -62,6 +62,7 @@
 ## 🎮 书影音 <a href="#book-movie-music" id="book-movie-music"></a>
 
 * [💸 知乎好文](book-movie-music/zhi-hu-hao-wen/README.md)
+  * [💰 大学里金融系到底学了些什么？](book-movie-music/zhi-hu-hao-wen/da-xue-li-jin-rong-xi-dao-di-xue-le-xie-shi-mo.md)
   * [😱 人类知道世界的终极真理后会疯掉吗?](book-movie-music/zhi-hu-hao-wen/ren-lei-zhi-dao-shi-jie-de-zhong-ji-zhen-li-hou-hui-feng-diao-ma.md)
   * [🛺 为什么每次中国出现危机都喜欢启动大基建?](book-movie-music/zhi-hu-hao-wen/wei-shi-mo-mei-ci-zhong-guo-chu-xian-wei-ji-du-xi-huan-qi-dong-da-ji-jian.md)
   * [🚛 人生活着的真正价值是什么？](book-movie-music/zhi-hu-hao-wen/ren-sheng-huo-zhuo-de-zhen-zheng-jia-zhi-shi-shi-mo.md)
