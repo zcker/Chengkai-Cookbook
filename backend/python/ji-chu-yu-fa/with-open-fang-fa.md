@@ -35,7 +35,7 @@ with open('data.txt', 'w') as f:
    f.write('hello world')  #文件的写操作
 ```
 
-![](../../.gitbook/assets/图片.png)
+![](../../../.gitbook/assets/图片.png)
 
 {% hint style="info" %}
 ```
