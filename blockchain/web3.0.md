@@ -238,7 +238,7 @@ DeFi 希望利用区块链技术创建一个更开放和透明的金融服务系
 
 互联网金融/金融科技和去中心化金融 DeFi，两者的技术架构图对比如下：
 
-![](<../.gitbook/assets/image (16) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (16) (1) (1) (1) (1) (1).png>)
 
 通过简单对比两者的架构图，DeFi 应用正在试图从基础层上重建金融服务，其运行成本会比传统金融低几个数量级。
 
@@ -294,7 +294,7 @@ Token 是区块链中必不可少的组成部分。
 
 而 Untitled INC 更进一步，对目前市面上的 Token 给出更精细的五种分类维度：目的、用途、法律、底层价值、技术。
 
-![](<../.gitbook/assets/image (17) (1) (1).png>)
+![](<../.gitbook/assets/image (17) (1) (1) (1).png>)
 
 2017 年 6 月 SEC（美国证监会）宣布 DAO Token 为证券（参见《SEC Issues Investigative Report Concluding DAO Tokens, a Digital Asset, Were Securities》），按证券相关法律进行监管。这是对区块链 Token 的一次重大定性。
 

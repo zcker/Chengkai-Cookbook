@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/image (16) (1) (1) (1).png
+cover: ../../.gitbook/assets/image (16) (1) (1) (1) (1).png
 coverY: 0
 ---
 
@@ -39,7 +39,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (13) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (17) (1).png>)
+![](<../../.gitbook/assets/image (17) (1) (1).png>)
 
 <details>
 

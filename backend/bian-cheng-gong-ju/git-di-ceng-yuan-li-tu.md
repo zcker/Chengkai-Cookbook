@@ -20,7 +20,7 @@ coverY: 0
 
 这些文件以及Git对象和我平时在Git教程课中常常看的图有什么关联？
 
-![Git教程中常用图](<../../.gitbook/assets/image (17).png>)
+![Git教程中常用图](<../../.gitbook/assets/image (17) (1).png>)
 
 图上所谓的版本库其实就是一系列commit对象的集合（每一个commit对象为一次文件快照），而暂存区就是一个文件（index文件）用来暂存即将提交的文件列表信息。通过 git ls-files -s 可以看查看 index文件中的内容。
 
