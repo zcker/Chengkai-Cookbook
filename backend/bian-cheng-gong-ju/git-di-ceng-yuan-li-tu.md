@@ -24,13 +24,13 @@ coverY: 0
 
 图上所谓的版本库其实就是一系列commit对象的集合（每一个commit对象为一次文件快照），而暂存区就是一个文件（index文件）用来暂存即将提交的文件列表信息。通过 git ls-files -s 可以看查看 index文件中的内容。
 
-![index文件代表的暂存区内容](<../../.gitbook/assets/image (23).png>)
+![index文件代表的暂存区内容](<../../.gitbook/assets/image (23) (1).png>)
 
 那么commit对象和其它3个Git对象有什么关系？
 
 在逻辑上，把Git各个对象内部的指针互相引用用图画形式表现出来，在真实的 .git/bojects 中我们根本没把法用肉眼去观察 Git 各个对象之间的引用。
 
-![Git对象互相引用](<../../.gitbook/assets/image (19).png>)
+![Git对象互相引用](<../../.gitbook/assets/image (19) (1).png>)
 
 ![.git 文件夹中的Git对象](<../../.gitbook/assets/image (15).png>)
 

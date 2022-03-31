@@ -90,6 +90,7 @@
   * [🥊 《香帅的金融学讲义》 笔记](book-movie-music/shu/xiang-shuai-de-jin-rong-xue-jiang-yi-bi-ji.md)
   * [📟 《上瘾》书评](book-movie-music/shu/shang-yin-shu-ping.md)
 * [🎬 影](book-movie-music/ying/README.md)
+  * [🚪 楚门的世界](book-movie-music/ying/chu-men-de-shi-jie.md)
   * [⛰ 影评：攀登者](book-movie-music/ying/ying-ping-pan-deng-zhe.md)
   * [♟ 《后翼弃兵》影评](book-movie-music/ying/hou-yi-qi-bing-ying-ping.md)
   * [🐏 沉默的羔羊](book-movie-music/ying/chen-mo-de-gao-yang.md)

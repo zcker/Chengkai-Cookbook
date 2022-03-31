@@ -252,7 +252,7 @@ if __name__ == '__main__':
 ```
 
 {% hint style="info" %}
-![](<../../.gitbook/assets/image (7) (1) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (1) (1).png>)
 
 * 模拟添加了wap2加密的协议
 * active\_scan标志位设置为1

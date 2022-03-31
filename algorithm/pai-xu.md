@@ -18,7 +18,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/image (15) (1).png>)
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 
 ### 2. 树
 
@@ -26,7 +26,7 @@ coverY: 0
 
 例子中是树的遍历：
 
-![](<../.gitbook/assets/image (21) (1).png>)
+![](<../.gitbook/assets/image (21) (1) (1).png>)
 
 ```java
 package 排序;
@@ -108,4 +108,4 @@ public class Example2 {
 }
 ```
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24) (1).png>)
