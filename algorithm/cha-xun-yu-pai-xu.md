@@ -204,7 +204,7 @@ public class Example4 {
 
 
 
-![img](<../.gitbook/assets/0 (4)>)
+![img](<../.gitbook/assets/0 (4) (1)>)
 
 ```java
 package 查找与排序;
@@ -432,9 +432,9 @@ public class Q6 {
 
 ## 10.算法复杂度
 
-![](<../.gitbook/assets/3 (4)>)
+![](<../.gitbook/assets/3 (4) (1)>)
 
-![](<../.gitbook/assets/4 (3)>)
+![](<../.gitbook/assets/4 (3) (1)>)
 
 ![](<../.gitbook/assets/5 (3)>)
 

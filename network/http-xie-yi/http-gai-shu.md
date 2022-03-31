@@ -6,7 +6,7 @@ HTTP是一种能够获取如 HTML 这样的网络资源的 protocol(通讯协议
 \
 客户端和服务端通过交换各自的消息（与数据流正好相反）进行交互。由像浏览器这样的客户端发出的消息叫做 **requests**，被服务端响应的消息叫做 **responses**。\
 HTTP被设计于20世纪90年代初期，是一种可扩展的协议。它是应用层的协议，通过TCP（Transmission Control Protocal），或者是TLS（Transport layer Security）－加密的TCP连接来发送，理论上任何可靠的传输协议都可以使用。因为其良好的扩展性，时至今日，它不仅被用来传输超文本文档，还用来传输图片、视频或者向服务器发送如HTML表单这样的信息。HTTP还可以根据网页需求，仅获取部分Web文档内容更新网页。\
-![fig:](<../../.gitbook/assets/1 (2)>)
+![fig:](<../../.gitbook/assets/1 (2) (1)>)
 
 ![](<../../.gitbook/assets/0 (1) (1)>)
 
