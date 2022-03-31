@@ -6,7 +6,7 @@ coverY: 0
 
 # ⛰ 影评：攀登者
 
-![](<../../.gitbook/assets/image (7) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png>)
 
 以下内容包含剧透！！！
 
