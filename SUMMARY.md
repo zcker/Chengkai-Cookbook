@@ -16,7 +16,7 @@
   * [🎙 mininet-wifi examples简述](network/sdn/mininetwifi-examples-jian-shu.md)
   * [📞 sflow RT知识](network/sdn/sflow-rt-zhi-shi.md)
   * [🎞 ryubook](network/sdn/ryubook/README.md)
-    * [ryubook原书](https://book.ryu-sdn.org/zh\_tw/html/index.html)
+    * [⚖ ryubook原书](https://book.ryu-sdn.org/zh\_tw/html/index.html)
     * [🛼 第一章 交换机 Switching Hub](network/sdn/ryubook/jiao-huan-ji-switching-hub.md)
 
 ## 🔺 前端  <a href="#frontend" id="frontend"></a>
@@ -104,3 +104,10 @@
 * [⛺ 查询与排序](algorithm/cha-xun-yu-pai-xu.md)
 * [💵 排序](algorithm/pai-xu.md)
 * [🌴 深入递归,深搜,回溯,剪枝](algorithm/shen-ru-di-gui-shen-sou-hui-su-jian-zhi.md)
+
+## 🖼 画廊&散文&项目 <a href="#gallery" id="gallery"></a>
+
+* [🗿 画廊](gallery/hua-lang/README.md)
+  * [⛱ 江苏大学 景](https://zcker.notion.site/c7a4e555da0f420e9da331239b6efd1a?v=de545d8fe04d4fc8853a0f5f83efc97d)
+* [🎆 项目](gallery/xiang-mu/README.md)
+  * [🔌 大二论文 - 基于增强现实的互动广告系统实现](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD\&dbname=CJFDLAST2021\&filename=DNZS202036033\&uniplatform=NZKPT\&v=pOBovVKach7XHDIknZfTrZvC7AFu2nO6QraMl\_XTp9oRma9fjLAU1ADMSn7XmzkD)
