@@ -21,7 +21,7 @@ coverY: 0
 
 解本题，首先找规律：
 
-![](<../.gitbook/assets/0 (2)>)
+![](<../../.gitbook/assets/0 (2)>)
 
 ```java
 package 深入递归;
@@ -119,7 +119,7 @@ public class Example1 {
 
 #### 3.1递归写法
 
-![](<../.gitbook/assets/1 (4)>)
+![](<../../.gitbook/assets/1 (4)>)
 
 ```java
 package 深入递归;
@@ -168,7 +168,7 @@ public class Example2 {
 
 #### 3.2 迭代写法
 
-![](<../.gitbook/assets/2 (3)>)
+![](<../../.gitbook/assets/2 (3)>)
 
 ```java
 package 深入递归;

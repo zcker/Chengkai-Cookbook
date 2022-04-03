@@ -99,11 +99,13 @@
 
 ## 🎰 算法 & 数学模型 <a href="#algorithm" id="algorithm"></a>
 
-* [📀 多属性决策模型](algorithm/duo-shu-xing-jue-ce-mo-xing.md)
-* [🚜 模糊逻辑算法](algorithm/mo-hu-luo-ji-suan-fa.md)
-* [⛺ 查询与排序](algorithm/cha-xun-yu-pai-xu.md)
-* [💵 排序](algorithm/pai-xu.md)
-* [🌴 深入递归,深搜,回溯,剪枝](algorithm/shen-ru-di-gui-shen-sou-hui-su-jian-zhi.md)
+* [🦯 算法](algorithm/suan-fa/README.md)
+  * [📀 多属性决策模型](algorithm/suan-fa/duo-shu-xing-jue-ce-mo-xing.md)
+  * [🚜 模糊逻辑算法](algorithm/suan-fa/mo-hu-luo-ji-suan-fa.md)
+* [⛏ leetcode](algorithm/leetcode/README.md)
+  * [⛺ 查询与排序](algorithm/leetcode/cha-xun-yu-pai-xu.md)
+  * [💵 排序](algorithm/leetcode/pai-xu.md)
+  * [🌴 深入递归,深搜,回溯,剪枝](algorithm/leetcode/shen-ru-di-gui-shen-sou-hui-su-jian-zhi.md)
 
 ## 🖼 画廊&散文&项目 <a href="#gallery" id="gallery"></a>
 
