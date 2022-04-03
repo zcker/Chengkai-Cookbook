@@ -235,7 +235,7 @@ coverY: 0
 
 </details>
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 ## 参考文献
 

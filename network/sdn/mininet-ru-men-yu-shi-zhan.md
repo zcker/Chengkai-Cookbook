@@ -89,7 +89,7 @@ py help('设备名') # 详细命令
 
 ![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (8) (2).png>)
 
 ![](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
 
@@ -97,7 +97,7 @@ py help('设备名') # 详细命令
 
 ![](<../../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 

@@ -41,7 +41,7 @@ coverY: 0
 
 传统逻辑例如布尔逻辑的隶属函数如下图所示：
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 当输入数据小于 x0 时，则结果取false，而当输入数据大于 x0 时，结果取true，false和true之间没有中间值，即传统逻辑中的非黑即白，非假即真。
 
@@ -49,7 +49,7 @@ coverY: 0
 
 对于上述传统布尔逻辑归属函数，我们可以做一个简单拓展将其转换为模糊逻辑的隶属函数
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (19) (1) (1).png>)
 
 0到1之间的逐渐变化。小于x0时，则结果取false即隶属度为0，而大于 x1 的值，结果取true即隶属度为1。介于 x0 到 x1 之间的值，隶属度则呈线性变化。我们可以很轻松的给出这个隶属度的方程式：
 
@@ -110,7 +110,7 @@ coverY: 0
 
 同样的如果Taste和Hunger分别取5.625和4.375，如图会有下面结果
 
-![](<../.gitbook/assets/image (14) (1).png>)
+![](<../.gitbook/assets/image (18) (1) (1).png>)
 
 表中：
 
@@ -158,7 +158,7 @@ Change-in-error指的是角速度偏差，error指的是角度偏差，表中的
 
 ![](<../.gitbook/assets/image (4) (1).png>)
 
-![](<../.gitbook/assets/image (15) (1) (1).png>)
+![](<../.gitbook/assets/image (13) (1) (1).png>)
 
 ## 实现方法
 

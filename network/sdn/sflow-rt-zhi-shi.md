@@ -198,7 +198,7 @@ while 1 == 1:
 
 注册间隔处理程序以运行定期任务。
 
-![](../../.gitbook/assets/metrics-table.png)
+![](<../../.gitbook/assets/15 (1)>)
 
 ```javascript
 代码每10秒运行一次，并使用JavaScript API函数metric（）、dump（）、table（）和activeFlows（）检索度量和流数据。

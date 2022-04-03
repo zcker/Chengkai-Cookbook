@@ -19,7 +19,7 @@
     * [⚖ ryubook原书](https://book.ryu-sdn.org/zh\_tw/html/index.html)
     * [🛼 第一章 交换机 Switching Hub](network/sdn/ryubook/jiao-huan-ji-switching-hub.md)
 
-## 🔺 前端  <a href="#frontend" id="frontend"></a>
+## 🔺 前端 <a href="#frontend" id="frontend"></a>
 
 * [📊 可视化图表库](frontend/ke-shi-hua-tu-biao-ku/README.md)
   * [📀 echarts](frontend/ke-shi-hua-tu-biao-ku/echarts/README.md)
@@ -33,7 +33,7 @@
 
 ## 🎒 后端 <a href="#backend" id="backend"></a>
 
-* [© C/C++](backend/c-c++/README.md)
+* [© © C/C++](backend/c-c++/README.md)
   * [🪁 宏定义](backend/c-c++/hong-ding-yi.md)
   * [📳 结构体做参数传递](backend/c-c++/jie-gou-ti-zuo-can-shu-chuan-di.md)
 * [🐍 Python](backend/python/README.md)
@@ -55,9 +55,9 @@
 * [🪙 BTC](blockchain/btc/README.md)
   * [BTC白皮书](https://www.notion.so/zcker-economics/BTC-588acd3156df442ebff1921c7a200171)
 * [🚜 web3.0](blockchain/web3.0.md)
-* [🇦🇮 数字货币挖矿基础知识](blockchain/shu-zi-huo-bi-wa-kuang-ji-chu-zhi-shi.md)
+* [🇦🇮 🇦🇮 数字货币挖矿基础知识](blockchain/shu-zi-huo-bi-wa-kuang-ji-chu-zhi-shi.md)
 
-## 🐧 linux\&OS <a href="#linux_OS" id="linux_OS"></a>
+## 🐧 linux\&OS <a href="#linux_os" id="linux_os"></a>
 
 * [🦛 Ubuntu](linux\_OS/ubuntu/README.md)
   * [🎯 系统目录结构](linux\_OS/ubuntu/xi-tong-mu-lu-jie-gou.md)
@@ -85,7 +85,7 @@
   * [👷 当工厂流水线工人怎么就不体面了？](book-movie-music/zhi-hu-hao-wen/dang-gong-chang-liu-shui-xian-gong-ren-zen-mo-jiu-bu-ti-mian-le.md)
   * [🏓 普通人的一生应该是怎样的？](book-movie-music/zhi-hu-hao-wen/pu-tong-ren-de-yi-sheng-ying-gai-shi-zen-yang-de.md)
   * [🧠 人脑由粒子构成，而粒子遵循物理规律，那人的意识还自由吗？](book-movie-music/zhi-hu-hao-wen/ren-nao-you-li-zi-gou-cheng-er-li-zi-zun-xun-wu-li-gui-lv-na-ren-de-yi-shi-huan-zi-you-ma.md)
-  * [🇬🇸 什么是中式恐怖？](book-movie-music/zhi-hu-hao-wen/shi-mo-shi-zhong-shi-kong-bu.md)
+  * [🇬🇸 🇬🇸 什么是中式恐怖？](book-movie-music/zhi-hu-hao-wen/shi-mo-shi-zhong-shi-kong-bu.md)
 * [📚 书](book-movie-music/shu/README.md)
   * [🏹 《史上最伟大的交易》笔记](book-movie-music/shu/shi-shang-zui-wei-da-de-jiao-yi-bi-ji.md)
   * [🥊 《香帅的金融学讲义》 笔记](book-movie-music/shu/xiang-shuai-de-jin-rong-xue-jiang-yi-bi-ji.md)

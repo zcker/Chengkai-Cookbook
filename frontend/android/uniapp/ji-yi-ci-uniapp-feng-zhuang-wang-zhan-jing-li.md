@@ -13,19 +13,19 @@ coverY: 0
 1. 下载[HBuilderX-高效极客技巧 (dcloud.io)](https://www.dcloud.io/hbuilderx.html)
 2. 新建->项目
 
-![](../../../.gitbook/assets/image-20220327084803720.png)
+![](<../../../.gitbook/assets/image-20220327084803720 (1).png>)
 
 ## 开发
 
 ### 项目目录结构
 
-![](<../../../.gitbook/assets/image-20220327122312075 (1).png>)
+![](../../../.gitbook/assets/image-20220327122312075.png)
 
 * 在index.vue写页面的样式，这就是封装页面的主体，调用的是webview去实现的。
 * static文件夹下放的是图片等静态资源
 * 在以下地方调配APP的设置
 
-![](../../../.gitbook/assets/image-20220327123016888.png)
+![](<../../../.gitbook/assets/image-20220327123016888 (1).png>)
 
 ### index.vue 视图页面
 
@@ -141,15 +141,15 @@ APP的权限和设置！！！
 
 #### 基础配置
 
-![](../../../.gitbook/assets/image-20220327123307441.png)
+![](<../../../.gitbook/assets/image-20220327123307441 (1).png>)
 
 #### 图标配置
 
-![](<../../../.gitbook/assets/image-20220327123359665 (1).png>)
+![](../../../.gitbook/assets/image-20220327123359665.png)
 
 #### 启动界面
 
-![](<../../../.gitbook/assets/image-20220327123513409 (1).png>)
+![](../../../.gitbook/assets/image-20220327123513409.png)
 
 #### 模块配置&权限配置
 
@@ -157,30 +157,30 @@ APP的权限和设置！！！
 
 #### 常用其他设置
 
-![](<../../../.gitbook/assets/image-20220327123626110 (1).png>)
+![](../../../.gitbook/assets/image-20220327123626110.png)
 
 #### 其他
 
 其余使用时需要，自行配置
 
-![](<../../../.gitbook/assets/image-20220327123709976 (1).png>)
+![](../../../.gitbook/assets/image-20220327123709976.png)
 
 #### page.json
 
 改下这里的内容
 
-![](<../../../.gitbook/assets/image-20220327123744589 (1).png>)
+![](../../../.gitbook/assets/image-20220327123744589.png)
 
 ## 发行
 
 1. 在[安卓证书在线制作-app在线生成-第八区 (dibaqu.com)](https://www.dibaqu.com/utils/android-cert)生成你的证书
 2. 进行云打包
 
-![](../../../.gitbook/assets/image-20220327130808264.png)
+![](<../../../.gitbook/assets/image-20220327130808264 (1).png>)
 
 3\. 填写信息
 
-![](<../../../.gitbook/assets/image-20220327130844799 (1).png>)
+![](../../../.gitbook/assets/image-20220327130844799.png)
 
 4\. 打包完成，下载即可
 
