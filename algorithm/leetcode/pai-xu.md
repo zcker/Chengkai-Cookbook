@@ -16,17 +16,17 @@ coverY: 0
 
 #### 1.1. 单向扫描法
 
-![](<../../.gitbook/assets/image (23) (1) (1).png>)
+![](<../../.gitbook/assets/image (44).png>)
 
-![](<../../.gitbook/assets/image (20) (1).png>)
+![](<../../.gitbook/assets/image (101).png>)
 
 ### 2. 树
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (33).png>)
 
 例子中是树的遍历：
 
-![](<../../.gitbook/assets/image (21) (1) (1).png>)
+![](<../../.gitbook/assets/image (114).png>)
 
 ```java
 package 排序;
@@ -108,4 +108,4 @@ public class Example2 {
 }
 ```
 
-![](<../../.gitbook/assets/image (24) (1).png>)
+![](<../../.gitbook/assets/image (126).png>)

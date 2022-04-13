@@ -1,11 +1,11 @@
 ---
-cover: ../../.gitbook/assets/image (16) (1) (1) (1) (1) (1) (1).png
+cover: ../../.gitbook/assets/image (86).png
 coverY: 0
 ---
 
 # 🐏 沉默的羔羊
 
-![](<../../.gitbook/assets/image (18) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (105).png>)
 
 从表现手法上说，《羔羊》的恐怖不是鲜血、脑浆、人肝堆砌出来的，而是用大量的细节雕琢出来的：贯穿全片的若有若无的呼吸声、深入地下的牢房、凶手视角；从主题上说，《羔羊》的恐怖其实不是“食人”这种三流老梗，而是每个人都要面对的真实恐惧——从社会底层往上爬的阻力、女性遭遇的歧视和威胁、压倒性的暴力、无法反抗的束缚、绝对孤独。整部片子象征意味非常强，每一个细节都有寓意。这才是真正优秀的恐怖片，它直指你的内心。
 
@@ -37,9 +37,9 @@ coverY: 0
 
 </details>
 
-![](<../../.gitbook/assets/image (13) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (75).png>)
 
-![](<../../.gitbook/assets/image (17) (1) (1).png>)
+![](<../../.gitbook/assets/image (92).png>)
 
 <details>
 
@@ -155,7 +155,7 @@ coverY: 0
 
 </details>
 
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 ## 参考文献
 

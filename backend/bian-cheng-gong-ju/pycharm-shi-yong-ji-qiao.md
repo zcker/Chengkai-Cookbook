@@ -8,4 +8,4 @@ coverY: 0
 
 ## Pycharm中配置Google函数注释模板 <a href="#articlecontentid" id="articlecontentid"></a>
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (15).png>)

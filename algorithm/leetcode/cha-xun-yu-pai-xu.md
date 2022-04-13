@@ -202,9 +202,7 @@ public class Example4 {
 
 ## 5.递归形式插入排序
 
-
-
-![img](<../../.gitbook/assets/0 (4) (1)>)
+![img](<../../.gitbook/assets/0 (10)>)
 
 ```java
 package 查找与排序;
@@ -281,9 +279,7 @@ public class Example5 {
 
 ## 7.汉诺塔
 
-
-
-![](<../../.gitbook/assets/1 (4) (1)>)
+![](<../../.gitbook/assets/1 (8)>)
 
 ```java
 package 查找与排序;
@@ -393,7 +389,7 @@ public class Q5 {
 
 ## 9. 希尔排序
 
-![](<../../.gitbook/assets/2 (4)>)
+![](<../../.gitbook/assets/2 (8)>)
 
 ```java
 package code;
@@ -432,11 +428,11 @@ public class Q6 {
 
 ## 10.算法复杂度
 
-![](<../../.gitbook/assets/3 (4) (1)>)
+![](<../../.gitbook/assets/3 (7)>)
 
-![](<../../.gitbook/assets/4 (3) (1)>)
+![](<../../.gitbook/assets/4 (7)>)
 
-![](<../../.gitbook/assets/5 (3)>)
+![](<../../.gitbook/assets/5 (5)>)
 
 > * `n!的弱上界是n²`，因此增长速度非常快，这意味着单位时间内可求解的问题很小，换言之，超慢
 > * 2^n这样的指数函数增长非常快，这种算法可以认为超慢
@@ -477,4 +473,4 @@ public class Q6 {
 
 ## 13. 速算估计表
 
-![](<../../.gitbook/assets/6 (2)>)
+![](<../../.gitbook/assets/6 (3)>)

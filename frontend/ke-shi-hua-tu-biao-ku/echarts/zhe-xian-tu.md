@@ -42,7 +42,6 @@ series的一个折线
                     data: rtt_dict    //类型是二维数组
                     //['time','data']
                 },
-
 ```
 
 #### **xAxis.axisLabel. formatter**
@@ -53,4 +52,4 @@ series的一个折线
 
 这里截取一部分关键点，可以粗略看一下：
 
-![](<../../../.gitbook/assets/image (25) (1).png>)
+![](<../../../.gitbook/assets/image (129).png>)

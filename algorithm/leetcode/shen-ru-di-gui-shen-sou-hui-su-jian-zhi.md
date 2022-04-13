@@ -119,7 +119,7 @@ public class Example1 {
 
 #### 3.1递归写法
 
-![](<../../.gitbook/assets/1 (4)>)
+![](<../../.gitbook/assets/1 (7)>)
 
 ```java
 package 深入递归;

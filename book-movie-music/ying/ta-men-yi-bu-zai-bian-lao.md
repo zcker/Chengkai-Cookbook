@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/image (16).png
+cover: ../../.gitbook/assets/image (36).png
 coverY: 0
 ---
 
@@ -13,11 +13,11 @@ coverY: 0
 
 但实际战争中，长这样
 
-![](<../../.gitbook/assets/2 (5)>)
+![](<../../.gitbook/assets/2 (11)>)
 
-![](<../../.gitbook/assets/3 (4)>)
+![](<../../.gitbook/assets/3 (6)>)
 
-![](<../../.gitbook/assets/4 (3)>)
+![](<../../.gitbook/assets/4 (4)>)
 
 感觉再多的话也难以描述战争的惨烈，就摘录些战争遗老的访谈吧：
 
@@ -43,4 +43,4 @@ coverY: 0
 
 “当你快死的时候，你的一生会闪过眼前，但19岁的我实在没什么人生。当子弹飞来，我只想到‘我会活下来吗？”
 
-![](<../../.gitbook/assets/0 (4)>)
+![](<../../.gitbook/assets/0 (9)>)

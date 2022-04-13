@@ -12,11 +12,11 @@ IEEE 802.11 (WLAN)帧的报头有四个地址字段。为了在无线分配系�
 
 •以太网帧的发送方
 
-•以太网帧的接收器&#x20;
+•以太网帧的接收器
 
 •WLAN帧的发送器
 
-&#x20;•WLAN帧的接收器&#x20;
+•WLAN帧的接收器
 
 以太网帧的发送方和接收方仅从传输的以太网帧复制。其他的字段容许接收方识别帧，并容许它向(WLAN)发送方确认帧的接收。然而，一般只须要这四个字段中的三个，所以大多数驱动程序不知道如何处理使用全部四个地址字段的帧。
 
@@ -94,11 +94,10 @@ def topology(args):
 if __name__ == '__main__':
     setLogLevel('info')
     topology(sys.argv)
-
 ```
 
 {% hint style="info" %}
-![](<../../.gitbook/assets/image (8) (1).png>)
+<img src="../../.gitbook/assets/image (47).png" alt="" data-size="original">
 
 开启服务：net = Mininet\_wifi(controller=Controller, link=wmediumd, wmediumd\_mode=interference, **config4addr=True**)
 
@@ -106,7 +105,7 @@ if __name__ == '__main__':
 
 ap见用以太网，sta与ap使用wlan连接
 
-![](<../../.gitbook/assets/image (5) (1) (1) (1) (1).png>)
+<img src="../../.gitbook/assets/image (40).png" alt="" data-size="original">
 {% endhint %}
 
 ```shell
@@ -193,7 +192,7 @@ mininet-wifi> Connected to 02:00:00:00:06:00 (on sta1-wlan0)
 
 当sta须要链接特定频率（MHz），可使用active\_scan功能。
 
-&#x20;如果网络使用的通道子集已知，则可使用此选项优化扫描，使其不发生在网络不使用的通道上。
+如果网络使用的通道子集已知，则可使用此选项优化扫描，使其不发生在网络不使用的通道上。
 
 示例:scan\_freq=“2412 2437 2462”， freq\_list=“2412 2437 2462”
 
@@ -248,16 +247,15 @@ def topology():
 if __name__ == '__main__':
     setLogLevel('info')
     topology()
-
 ```
 
 {% hint style="info" %}
-![](<../../.gitbook/assets/image (7) (1) (1) (1) (1).png>)
+<img src="../../.gitbook/assets/image (51).png" alt="" data-size="original">
 
 * 模拟添加了wap2加密的协议
 * active\_scan标志位设置为1
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
+<img src="../../.gitbook/assets/image (8).png" alt="" data-size="original">
 {% endhint %}
 
 ```shell
@@ -372,15 +370,14 @@ def topology(args):
 if __name__ == '__main__':
     setLogLevel('info')
     topology(sys.argv)
-
 ```
 
 {% hint style="info" %}
-![](<../../.gitbook/assets/image (1) (1).png>)
+<img src="../../.gitbook/assets/image (2).png" alt="" data-size="original">
 
 如何传入参数：
 
-![](<../../.gitbook/assets/image (14) (1) (1) (1) (1) (1).png>)
+<img src="../../.gitbook/assets/image (117).png" alt="" data-size="original">
 {% endhint %}
 
 ```shell

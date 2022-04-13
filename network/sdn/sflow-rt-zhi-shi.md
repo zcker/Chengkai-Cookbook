@@ -16,7 +16,7 @@ coverY: 0
 
 ### 主界面
 
-![](<../../.gitbook/assets/0 (4) (1) (1)>)
+![](<../../.gitbook/assets/0 (11)>)
 
 ### world-map
 
@@ -30,11 +30,11 @@ coverY: 0
 
 ### sunburst
 
-![](../../.gitbook/assets/4)
+![](<../../.gitbook/assets/4 (1)>)
 
 ### Metric Browser
 
-![](<../../.gitbook/assets/5 (2)>)
+![](<../../.gitbook/assets/5 (3)>)
 
 ### dashboard-example
 
@@ -50,7 +50,7 @@ coverY: 0
 
 ### mininet-dashboard
 
-![](<../../.gitbook/assets/10 (2)>)
+![](<../../.gitbook/assets/10 (3)>)
 
 ![](<../../.gitbook/assets/11 (2)>)
 
@@ -198,7 +198,7 @@ while 1 == 1:
 
 注册间隔处理程序以运行定期任务。
 
-![](<../../.gitbook/assets/15 (1)>)
+![](../../.gitbook/assets/metrics-table.png)
 
 ```javascript
 代码每10秒运行一次，并使用JavaScript API函数metric（）、dump（）、table（）和activeFlows（）检索度量和流数据。

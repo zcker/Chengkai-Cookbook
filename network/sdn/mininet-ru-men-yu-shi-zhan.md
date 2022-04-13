@@ -12,33 +12,33 @@ coverY: 0
 
 ![](../../.gitbook/assets/0)
 
-![](<../../.gitbook/assets/1 (4) (1) (1)>)
+![](<../../.gitbook/assets/1 (9)>)
 
-![](<../../.gitbook/assets/2 (3) (1) (1)>)
+![](<../../.gitbook/assets/2 (9)>)
 
 ### 二、Mininet安装部署
 
-![](<../../.gitbook/assets/3 (3) (1) (1)>)
+![](<../../.gitbook/assets/3 (10)>)
 
-![](<../../.gitbook/assets/4 (2) (1) (1)>)
+![](<../../.gitbook/assets/4 (6)>)
 
-![](<../../.gitbook/assets/5 (2) (1)>)
+![](<../../.gitbook/assets/5 (4)>)
 
 ![](../../.gitbook/assets/6)
 
-![](<../../.gitbook/assets/7 (1) (1)>)
+![](<../../.gitbook/assets/7 (2)>)
 
 ### 三、Mininet命令详解
 
 ### 网络构建启动参数
 
-![](<../../.gitbook/assets/8 (2) (1)>)
+![](<../../.gitbook/assets/8 (3)>)
 
-![](<../../.gitbook/assets/9 (2)>)
+![](<../../.gitbook/assets/9 (3)>)
 
 ![](../../.gitbook/assets/10)
 
-![](<../../.gitbook/assets/11 (3)>)
+![](<../../.gitbook/assets/11 (4)>)
 
 ![](<../../.gitbook/assets/12 (2)>)
 
@@ -46,7 +46,7 @@ coverY: 0
 
 ### 内部交互命令
 
-![](<../../.gitbook/assets/14 (3)>)
+![](<../../.gitbook/assets/14 (4)>)
 
 ![](../../.gitbook/assets/15)
 
@@ -67,7 +67,7 @@ py help('设备名') # 详细命令
 
 ![](<../../.gitbook/assets/17 (3)>)
 
-![](../../.gitbook/assets/18)
+![](<../../.gitbook/assets/18 (1)>)
 
 `controller设置port和remote controller`
 
@@ -87,21 +87,21 @@ py help('设备名') # 详细命令
 
 ### 执行操作
 
-![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (35).png>)
 
-![](<../../.gitbook/assets/image (8) (2).png>)
+![](<../../.gitbook/assets/image (108).png>)
 
-![](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (99).png>)
 
-![](<../../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (85).png>)
 
-![](<../../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (39).png>)
 
-![](<../../.gitbook/assets/image (10) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
-![](<../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (119).png>)
 
 ### 注意事项
 
@@ -111,9 +111,9 @@ py help('设备名') # 详细命令
 
 ### 案例背景 <a href="#header-n118" id="header-n118"></a>
 
-![](<../../.gitbook/assets/0 (3)>)
+![](<../../.gitbook/assets/0 (7)>)
 
-![](<../../.gitbook/assets/1 (3)>)
+![](<../../.gitbook/assets/1 (6)>)
 
 ![](<../../.gitbook/assets/2 (1)>)
 
@@ -121,15 +121,15 @@ py help('设备名') # 详细命令
 
 ![](<../../.gitbook/assets/3 (2)>)
 
-![](<../../.gitbook/assets/4 (2) (1)>)
+![](<../../.gitbook/assets/4 (5)>)
 
 ![](<../../.gitbook/assets/5 (1)>)
 
-![](<../../.gitbook/assets/6 (2) (1)>)
+![](<../../.gitbook/assets/6 (4)>)
 
 ![](<../../.gitbook/assets/7 (1)>)
 
-![](<../../.gitbook/assets/8 (3)>)
+![](<../../.gitbook/assets/8 (4)>)
 
 ![](<../../.gitbook/assets/9 (1)>)
 
@@ -137,7 +137,7 @@ py help('设备名') # 详细命令
 
 ### 添加拓扑 <a href="#header-n138" id="header-n138"></a>
 
-![](../../.gitbook/assets/11)
+![](<../../.gitbook/assets/11 (1)>)
 
 ![](../../.gitbook/assets/12)
 
@@ -145,7 +145,7 @@ py help('设备名') # 详细命令
 
 ![](../../.gitbook/assets/14)
 
-![](<../../.gitbook/assets/15 (2)>)
+![](<../../.gitbook/assets/15 (3)>)
 
 ![](<../../.gitbook/assets/16 (3)>)
 
@@ -157,4 +157,4 @@ py help('设备名') # 详细命令
 
 ## 参考资料
 
-* 未来网络学院  [https://www.bilibili.com/video/BV1ft4y1a7ip](https://www.bilibili.com/video/BV1ft4y1a7ip)
+* 未来网络学院 [https://www.bilibili.com/video/BV1ft4y1a7ip](https://www.bilibili.com/video/BV1ft4y1a7ip)

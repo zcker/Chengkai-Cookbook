@@ -30,7 +30,6 @@ def main():
 
 if __name__ == '__main__':
     main()
-
 ```
 
 ## Mininet调试方法
@@ -63,7 +62,7 @@ chmod +x python_sudo.sh.sh
 
 ### 方法2
 
-![](<../../.gitbook/assets/image (13) (1).png>)
+![](<../../.gitbook/assets/image (32).png>)
 
 ## 参考资料
 
