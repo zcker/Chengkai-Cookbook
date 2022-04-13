@@ -107,8 +107,6 @@ Web2.0，数据完全由企业掌控，会有如下问题
 
 ### Web3.0的特点
 
-
-
 我们对Web3.0的特点进行了一些归纳：
 
 * Web3.0必须是开放的
@@ -222,7 +220,7 @@ Web3.0不一定能在所有领域对Web2.0产生全面的替代，但一定会�
 
 ## DeFi 与 Web3.0
 
-回顾区块链的发展，会发现其最初就是围绕金融问题而做的一系列创新。也正是在这些大量的创新的积淀下，才有了 DeFi 的爆发。如前所述，我们将 DeFi 与 Web3.0 两者分开。DeFi 是去**中心化金融（Decentralized Finance）**的缩写，指那些建立在区块链网络之上的金融应用，而 我们定义 Web3.0 特指构建于开放协议之上的所有非金融应用。两者有清晰的边界。
+回顾区块链的发展，会发现其最初就是围绕金融问题而做的一系列创新。也正是在这些大量的创新的积淀下，才有了 DeFi 的爆发。如前所述，我们将 DeFi 与 Web3.0 两者分开。DeFi 是去\*\*中心化金融（Decentralized Finance）\*\*的缩写，指那些建立在区块链网络之上的金融应用，而 我们定义 Web3.0 特指构建于开放协议之上的所有非金融应用。两者有清晰的边界。
 
 那么，DeFi 和 Web3.0 之间的关系是怎样的？这是一个值得深入探讨的课题。
 
@@ -238,7 +236,7 @@ DeFi 希望利用区块链技术创建一个更开放和透明的金融服务系
 
 互联网金融/金融科技和去中心化金融 DeFi，两者的技术架构图对比如下：
 
-![](<../.gitbook/assets/image (16) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (16) (1) (1) (1) (1) (1) (1) (1).png>)
 
 通过简单对比两者的架构图，DeFi 应用正在试图从基础层上重建金融服务，其运行成本会比传统金融低几个数量级。
 
@@ -266,11 +264,11 @@ DeFi 希望利用区块链技术创建一个更开放和透明的金融服务系
 
 可以看到，相比于 Web2.0，在 Web3.0 时代，我们多了区块链（应用链）的内核。
 
-### &#x20;Contract 与 Appchain
+### Contract 与 Appchain
 
 DeFi 基础设施层的区块链和 Web3.0 应用中的区块链，它们是有差别的。
 
-再次回顾区块链的发展史，诞生区块链概念的比特币项目开启了挑战央行对货币和金融体系垄断的大门，从这个角度来讲，比特币是最初形态的 DeFi。随后由 Daniel Larimer（BM）创建的 Bitshares（中文名比特股 BTS）可以看作是第一个尝试 DeFi 的项目。但理想丰满现实骨感，BTS 的探索最终流产。后来 Vitalik Buterin 提出了以太坊，它建立了一个**可编程的、图灵完备的智能合约区块链**，期望成为去中心化应用开发平台。至此基于智能合约技术，全球加密开发者进行了各种积极的探索，开发了各种类型的去中心化项目（金融，游戏，社交媒体等）。根据当前[Coingecko](https://www.coingecko.com/zh/categories)市值分类数据，我们会发现市值排名前三的是_稳定币，交易类，DeFi_，这些均为金融资产交易类的应用。从这个角度来讲，智能合约并不适用于开发所有领域的 DApp，而是更适合金融领域 DeFi 应用。
+再次回顾区块链的发展史，诞生区块链概念的比特币项目开启了挑战央行对货币和金融体系垄断的大门，从这个角度来讲，比特币是最初形态的 DeFi。随后由 Daniel Larimer（BM）创建的 Bitshares（中文名比特股 BTS）可以看作是第一个尝试 DeFi 的项目。但理想丰满现实骨感，BTS 的探索最终流产。后来 Vitalik Buterin 提出了以太坊，它建立了一个**可编程的、图灵完备的智能合约区块链**，期望成为去中心化应用开发平台。至此基于智能合约技术，全球加密开发者进行了各种积极的探索，开发了各种类型的去中心化项目（金融，游戏，社交媒体等）。根据当前[Coingecko](https://www.coingecko.com/zh/categories)市值分类数据，我们会发现市值排名前三的是\_稳定币，交易类，DeFi\_，这些均为金融资产交易类的应用。从这个角度来讲，智能合约并不适用于开发所有领域的 DApp，而是更适合金融领域 DeFi 应用。
 
 随着区块链技术的发展，出现了 Cosmos SDK，Substrate，Muta 等区块链开发框架，这为开发人员提供了一种完全不同于智能合约的方式来创建去中心化应用程序。<mark style="color:orange;">合约是面向一个通用的虚拟机开发，受限于底层虚拟机的限制，可定制性较弱；而使用区块链开发框架，开发人员则可以选择框架中各种可用的模块（比如共识，治理等组件）或者构建自定义模块来快速定制和启动一条区块链，这样就大大提升了灵活性。</mark>比如：由于证券型通证（security tokens）需要基础设施层具有更多的功能来确保监管合规性和增强机构信心，Polymath 为此专门构建了一条区块链 [Polymesh](https://polymath.network/polymesh) 来更好地实现证券型通证的创建、发行和管理。Compound 则专门构建了 [Gateway](https://compound.cash) 区块链来实现跨链利率市场。这些团队由于智能合约平台的某些限制转而选择构建应用链，一定程度上说明了应用链更适用于开发 Web3.0 的 App。
 
@@ -280,7 +278,7 @@ DeFi 基础设施层的区块链和 Web3.0 应用中的区块链，它们是有�
 
 从上表可以看出，Smart Contract 的可组合性强，有利于 DeFi 应用的创新。Appchain 自主可控，可定制性高，适合面向具体场景下的 Web3.0 应用。因此，当构建去中心化应用，需要面向具体业务场景做定制时，Appchain 明显具有更多的技术选项。
 
-### &#x20;Appchain概念
+### Appchain概念
 
 #### Token
 
@@ -341,9 +339,9 @@ Appchain 虽然有众多优点，但是其缺点也是明显的。本节详细�
 
 运维难度。验证人节点，需要运维自己独立的服务器。运维体现在几方面：
 
-* &#x20;服务器的稳定运行。监控其 CPU 负载、内存负载、网络负载、存储空间等等，适时增加配置，防止由于硬件原因导致节点运行失败
-* &#x20;防攻击。做好节点防护，防止外部黑客或不明来源攻击，对链的安全性造成冲击
-* &#x20;链上代码版本的及时升级跟进。有些版本可以通过 wasm 之类的技术自动升级，有些版本却需要升级整个节点内容，需要手动或 DevOps 自动跟进
+* 服务器的稳定运行。监控其 CPU 负载、内存负载、网络负载、存储空间等等，适时增加配置，防止由于硬件原因导致节点运行失败
+* 防攻击。做好节点防护，防止外部黑客或不明来源攻击，对链的安全性造成冲击
+* 链上代码版本的及时升级跟进。有些版本可以通过 wasm 之类的技术自动升级，有些版本却需要升级整个节点内容，需要手动或 DevOps 自动跟进
 
 相比之下，合约平台上的合约开发者，不需要关心这么细节的运维内容。
 
@@ -397,7 +395,7 @@ Octopus 目标是提供一个面向 Appchain 的**完整基础协议**。
 
 Octopus 的设计：选择一条合约链平台作为主链，而不运行自己的主链或中继链，所有 Appchain 直接与主链进行交互。这样做的好处是降低了再独立运维一条中继链的成本，从而也降低了 Appchain 的接入成本。让 Appchain 赛道的创业成本更低，存活率更高。
 
-另一方面，由于主链（合约链）的 DeFi 特征，Octopus 实际做了一个_双边市场_：一面是 DeFi 投资方，一面是 Appchain 创业团队方。资方对 Appchain 进行自愿 Staking（类似于传统的 Angel，不过更分散），成为这条 Appchain 的 Validator。当 Staking 量超过一个门槛后，Appchain 就进入启动的流水线。同时，Octopus 还提供一整套云平台自动化工具，让缺乏足够运维知识的资方也可以做 Validator。由于 Octopus 将 Staking 角色与 Validator 角色强绑定，于是在做启动抵押的过程中，就顺便解决了 Appchain 的安全性问题。也就是说 Appchain 的安全性是 Stakeholder 和 Staking 量的副产品。只不过这个安全性在开始启动的时候，数值较低，随着 Appchain 的发展，这个数值会逐渐提高。所以这种安全性被称为 leased security（租用安全性）。这种设计也比较符合传统互联网创业团队的估值增长曲线。
+另一方面，由于主链（合约链）的 DeFi 特征，Octopus 实际做了一个\_双边市场\_：一面是 DeFi 投资方，一面是 Appchain 创业团队方。资方对 Appchain 进行自愿 Staking（类似于传统的 Angel，不过更分散），成为这条 Appchain 的 Validator。当 Staking 量超过一个门槛后，Appchain 就进入启动的流水线。同时，Octopus 还提供一整套云平台自动化工具，让缺乏足够运维知识的资方也可以做 Validator。由于 Octopus 将 Staking 角色与 Validator 角色强绑定，于是在做启动抵押的过程中，就顺便解决了 Appchain 的安全性问题。也就是说 Appchain 的安全性是 Stakeholder 和 Staking 量的副产品。只不过这个安全性在开始启动的时候，数值较低，随着 Appchain 的发展，这个数值会逐渐提高。所以这种安全性被称为 leased security（租用安全性）。这种设计也比较符合传统互联网创业团队的估值增长曲线。
 
 Octopus 的问题是，由于其主链为一条现有的合约链，其灵活性和可定制性会受到一些制约，不如完全自主的中继链那样灵活和可控。Octopus 的协议设计符合资本和金融的基本规则，但实际运行效果如何，还有待观察。
 
@@ -413,7 +411,7 @@ Octopus 的问题是，由于其主链为一条现有的合约链，其灵活性
 
 《Cosmos SDK 开发者文档》对 Cosmos-sdk 描述如下：
 
-Cosmos-sdk 是一个开源框架，用于**构建类似 Cosmos Hub 等基于 PoS 共识算法的多元资产公有区块链，以及基于权威证明共识算法的许可链。**使用 Cosmos SDK 构建的区块链通常被称为专用区块链（application-specific blockchains）。
+Cosmos-sdk 是一个开源框架，用于\*\*构建类似 Cosmos Hub 等基于 PoS 共识算法的多元资产公有区块链，以及基于权威证明共识算法的许可链。\*\*使用 Cosmos SDK 构建的区块链通常被称为专用区块链（application-specific blockchains）。
 
 Cosmos SDK 的目标是让开发者可以快速地构建一条能与其他区块链以原生的方式进行互操作的可定制区块链。在他们的设想中，这套 SDK 就像 Web 应用框架一样，可以让开发者迅速构建出基于 Tendermint 算法的安全区块链应用程序。由 Cosmos SDK 开发的区块链由组合式模块构建，其中大部分模块都是开源的，且任何开发者均可使用。任何人都能为 Cosmos SDK 创建新的模块和集成已经构建的模块，就像将他们导入你的区块链应用程序一样简单。还有一点，Cosmos SDK 是基于功能（capabilities）的系统，这允许开发者可以更好地考虑模块之间交互的安全性。
 
@@ -459,7 +457,7 @@ Muta 提供的基本核心组件有：
 
 <!---->
 
-* &#x20;高性能内存池
+* 高性能内存池
 
 Muta 提供定制的部分有：
 
@@ -481,13 +479,11 @@ Web3.0 由理想变成现实，需要无数的团队在各个领域充分实践�
 
 ## 参考文献
 
-
-
 1. 比特币白皮书 [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 2. Web 3.0 and the Future of Trust [https://a16z.com/2019/11/12/the-end-of-centralization-and-the-future-of-trust/](https://a16z.com/2019/11/12/the-end-of-centralization-and-the-future-of-trust/)
 3. Rebooting the Internet [https://medium.com/dfinity/rebooting-the-internet-andreessen-horowitzs-chris-dixon-on-the-decentralized-web-e0b4b0245645](https://medium.com/dfinity/rebooting-the-internet-andreessen-horowitzs-chris-dixon-on-the-decentralized-web-e0b4b0245645)
 4. Why We Need Web 3.0 [https://gavofyork.medium.com/why-we-need-web-3-0-5da4f2bf95ab](https://gavofyork.medium.com/why-we-need-web-3-0-5da4f2bf95ab)
-5. 《刘毅：Web3.0到底是醒世恒言还是危言耸听？》 [https://mp.weixin.qq.com/s?src=11\&timestamp=1618666137\&ver=3014\&signature=gvJ5zET-uhEK6GCJGTPMG70iAollqC4oToIB1aXZrOq6drLiThxPVXc1feP84_J_pcNKnovNPIc2umIuPPHuwzef7mKrD\*sUhGCcH89SG2aUT5-9lp4nNxJ86S9HxLUQ\&new=1](https://mp.weixin.qq.com/s?src=11\&timestamp=1618666137\&ver=3014\&signature=gvJ5zET-uhEK6GCJGTPMG70iAollqC4oToIB1aXZrOq6drLiThxPVXc1feP84\*J\*pcNKnovNPIc2umIuPPHuwzef7mKrD\*sUhGCcH89SG2aUT5-9lp4nNxJ86S9HxLUQ\&new=1)
+5. 《刘毅：Web3.0到底是醒世恒言还是危言耸听？》 [https://mp.weixin.qq.com/s?src=11\&timestamp=1618666137\&ver=3014\&signature=gvJ5zET-uhEK6GCJGTPMG70iAollqC4oToIB1aXZrOq6drLiThxPVXc1feP84\_J\_pcNKnovNPIc2umIuPPHuwzef7mKrD\*sUhGCcH89SG2aUT5-9lp4nNxJ86S9HxLUQ\&new=1](https://mp.weixin.qq.com/s?src=11\&timestamp=1618666137\&ver=3014\&signature=gvJ5zET-uhEK6GCJGTPMG70iAollqC4oToIB1aXZrOq6drLiThxPVXc1feP84\*J\*pcNKnovNPIc2umIuPPHuwzef7mKrD\*sUhGCcH89SG2aUT5-9lp4nNxJ86S9HxLUQ\&new=1)
 6. 《Web3.0应用的新机遇》 [https://mp.weixin.qq.com/s/DxHSRASawmwU\_snbsKXKdw](https://mp.weixin.qq.com/s/DxHSRASawmwU\_snbsKXKdw)
-7. &#x20;对Web3.0概念的梳理[https://rustmagazine.github.io/rust\_magazine\_2021/chapter\_6/web3-part1.html](https://rustmagazine.github.io/rust\_magazine\_2021/chapter\_6/web3-part1.html)
+7. 对Web3.0概念的梳理[https://rustmagazine.github.io/rust\_magazine\_2021/chapter\_6/web3-part1.html](https://rustmagazine.github.io/rust\_magazine\_2021/chapter\_6/web3-part1.html)
 8. 为什么区块链需要Web3.0 [https://mp.weixin.qq.com/s/zXqJ0BGdEbvZypAwLWKmtQ](https://mp.weixin.qq.com/s/zXqJ0BGdEbvZypAwLWKmtQ)
