@@ -37,6 +37,8 @@
   * [🪁 宏定义](backend/c-c++/hong-ding-yi.md)
   * [📳 结构体做参数传递](backend/c-c++/jie-gou-ti-zuo-can-shu-chuan-di.md)
 * [🐍 Python](backend/python/README.md)
+  * [🚇 Anaconda](backend/python/anaconda/README.md)
+    * [📡 conda常用命令](backend/python/anaconda/conda-chang-yong-ming-ling.md)
   * [🐼 pandas库](backend/python/pandas-ku/README.md)
     * [🍪 pandas基础](backend/python/pandas-ku/pandas-ji-chu.md)
   * [🚃 基础语法](backend/python/ji-chu-yu-fa/README.md)
